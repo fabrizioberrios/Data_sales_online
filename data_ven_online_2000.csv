@@ -1,0 +1,2000 @@
+NroTrx;sku;producto;cantidad;precio;subtotal;diasem;customerid;total;useragentbrowser;useragentoperatingsystem;useragentdevice
+P000001;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33632;136.3;Edge;Windows;other
+P000001;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Dom;33632;136.3;Edge;Windows;other
+P000001;110601400016;Filete de Pechuga;1;30;30;Dom;33632;136.3;Edge;Windows;other
+P000001;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Dom;33632;136.3;Edge;Windows;other
+P000001;110603500048;Filete a la Pimienta;2;13.5;27;Dom;33632;136.3;Edge;Windows;other
+P000001;110603700015;Hamburguesa Premium;1;8.3;8.3;Dom;33632;136.3;Edge;Windows;other
+P000002;110601200016;Muslos Frescos;1;54;54;Dom;33636;74.7;Chrome Mobile;Android;other
+P000002;110603500013;Nuggets con Quinua;1;8.2;8.2;Dom;33636;74.7;Chrome Mobile;Android;other
+P000002;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Dom;33636;74.7;Chrome Mobile;Android;other
+P000003;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33513;69;Chrome Mobile;Android;other
+P000003;110601400016;Filete de Pechuga;1;30;30;Dom;33513;69;Chrome Mobile;Android;other
+P000003;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Dom;33513;69;Chrome Mobile;Android;other
+P000003;110603500048;Filete a la Pimienta;1;13.5;13.5;Dom;33513;69;Chrome Mobile;Android;other
+P000004;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33641;66.6;Chrome Mobile;Android;other
+P000004;110603500019;Deditos de Pollo;2;7.8;15.6;Dom;33641;66.6;Chrome Mobile;Android;other
+P000004;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Dom;33641;66.6;Chrome Mobile;Android;other
+P000005;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33596;56;Chrome;Windows;other
+P000005;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Dom;33596;56;Chrome;Windows;other
+P000005;110603500049;Filete  a la Criolla;1;13.5;13.5;Dom;33596;56;Chrome;Windows;other
+P000006;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33588;64.3;Chrome;Windows;other
+P000006;110601000027;Pollo Entero S/M;1;16;16;Dom;33588;64.3;Chrome;Windows;other
+P000006;110603500019;Deditos de Pollo;1;7.8;7.8;Dom;33588;64.3;Chrome;Windows;other
+P000006;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Dom;33588;64.3;Chrome;Windows;other
+P000007;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33655;107.9;Chrome Mobile;Android;LG
+P000007;110601000027;Pollo Entero S/M;2;16;32;Dom;33655;107.9;Chrome Mobile;Android;LG
+P000007;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Dom;33655;107.9;Chrome Mobile;Android;LG
+P000007;110601400016;Filete de Pechuga;1;30;30;Dom;33655;107.9;Chrome Mobile;Android;LG
+P000007;110603500013;Nuggets con Quinua;2;8.2;16.4;Dom;33655;107.9;Chrome Mobile;Android;LG
+P000008;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33667;73;Chrome;Windows;other
+P000008;110601400016;Filete de Pechuga;2;30;60;Dom;33667;73;Chrome;Windows;other
+P000009;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33670;165.1;Chrome Mobile;Android;other
+P000009;110601200009;Pierna Encuentro Fresca;2;54;108;Dom;33670;165.1;Chrome Mobile;Android;other
+P000009;110603700015;Hamburguesa Premium;2;8.3;16.6;Dom;33670;165.1;Chrome Mobile;Android;other
+P000009;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Dom;33670;165.1;Chrome Mobile;Android;other
+P000010;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33671;169;Chrome;Windows;other
+P000010;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Dom;33671;169;Chrome;Windows;other
+P000010;110601400016;Filete de Pechuga;3;30;90;Dom;33671;169;Chrome;Windows;other
+P000011;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33669;53;Safari;Mac OS X;other
+P000011;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Dom;33669;53;Safari;Mac OS X;other
+P000011;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Dom;33669;53;Safari;Mac OS X;other
+P000012;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33665;122.6;Firefox;Windows;other
+P000012;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Dom;33665;122.6;Firefox;Windows;other
+P000012;110601400016;Filete de Pechuga;2;30;60;Dom;33665;122.6;Firefox;Windows;other
+P000012;110603700015;Hamburguesa Premium;2;8.3;16.6;Dom;33665;122.6;Firefox;Windows;other
+P000013;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33673;50.8;Chrome Mobile;Android;other
+P000013;110601400016;Filete de Pechuga;1;30;30;Dom;33673;50.8;Chrome Mobile;Android;other
+P000013;110603500019;Deditos de Pollo;1;7.8;7.8;Dom;33673;50.8;Chrome Mobile;Android;other
+P000014;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33672;53.3;Chrome;Windows;other
+P000014;110601000027;Pollo Entero S/M;2;16;32;Dom;33672;53.3;Chrome;Windows;other
+P000014;110603700015;Hamburguesa Premium;1;8.3;8.3;Dom;33672;53.3;Chrome;Windows;other
+P000015;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33674;83.5;Safari;Mac OS X;other
+P000015;110601400016;Filete de Pechuga;1;30;30;Dom;33674;83.5;Safari;Mac OS X;other
+P000015;110603500049;Filete  a la Criolla;3;13.5;40.5;Dom;33674;83.5;Safari;Mac OS X;other
+P000016;110501000031;Huevo Pardo Empacado;3;13;39;Dom;33677;93;Chrome;Windows;other
+P000016;110601200009;Pierna Encuentro Fresca;1;54;54;Dom;33677;93;Chrome;Windows;other
+P000017;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33678;186.7;Chrome;Windows;other
+P000017;110601400016;Filete de Pechuga;4;30;120;Dom;33678;186.7;Chrome;Windows;other
+P000017;110603500005;Nuggets Premium;3;6;18;Dom;33678;186.7;Chrome;Windows;other
+P000017;110603500013;Nuggets con Quinua;1;8.2;8.2;Dom;33678;186.7;Chrome;Windows;other
+P000017;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Dom;33678;186.7;Chrome;Windows;other
+P000018;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33679;53.3;Chrome Mobile;Android;other
+P000018;110601000027;Pollo Entero S/M;1;16;16;Dom;33679;53.3;Chrome Mobile;Android;other
+P000018;110603500013;Nuggets con Quinua;1;8.2;8.2;Dom;33679;53.3;Chrome Mobile;Android;other
+P000018;110603500019;Deditos de Pollo;1;7.8;7.8;Dom;33679;53.3;Chrome Mobile;Android;other
+P000018;110603700015;Hamburguesa Premium;1;8.3;8.3;Dom;33679;53.3;Chrome Mobile;Android;other
+P000019;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33681;56;Chrome Mobile iOS;iOS;iPhone
+P000019;110601400016;Filete de Pechuga;1;30;30;Dom;33681;56;Chrome Mobile iOS;iOS;iPhone
+P000020;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33682;171.3;Safari;Mac OS X;other
+P000020;110601000027;Pollo Entero S/M;2;16;32;Dom;33682;171.3;Safari;Mac OS X;other
+P000020;110601200009;Pierna Encuentro Fresca;1;54;54;Dom;33682;171.3;Safari;Mac OS X;other
+P000020;110603500005;Nuggets Premium;2;6;12;Dom;33682;171.3;Safari;Mac OS X;other
+P000020;110603500019;Deditos de Pollo;1;7.8;7.8;Dom;33682;171.3;Safari;Mac OS X;other
+P000020;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Dom;33682;171.3;Safari;Mac OS X;other
+P000020;110603500049;Filete  a la Criolla;2;13.5;27;Dom;33682;171.3;Safari;Mac OS X;other
+P000021;110501000031;Huevo Pardo Empacado;3;13;39;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000021;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000021;110601400016;Filete de Pechuga;1;30;30;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000021;110603500013;Nuggets con Quinua;1;8.2;8.2;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000021;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000021;110603500048;Filete a la Pimienta;3;13.5;40.5;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000021;110603500049;Filete  a la Criolla;3;13.5;40.5;Dom;33684;249.2;Mobile Safari;iOS;iPhone
+P000022;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33686;58;Chrome;Windows;other
+P000022;110601000027;Pollo Entero S/M;2;16;32;Dom;33686;58;Chrome;Windows;other
+P000023;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33691;102.1;Mobile Safari;iOS;iPhone
+P000023;110601000027;Pollo Entero S/M;2;16;32;Dom;33691;102.1;Mobile Safari;iOS;iPhone
+P000023;110603700015;Hamburguesa Premium;2;8.3;16.6;Dom;33691;102.1;Mobile Safari;iOS;iPhone
+P000023;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Dom;33691;102.1;Mobile Safari;iOS;iPhone
+P000024;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Dom;33696;66;Mobile Safari;iOS;iPhone
+P000025;110501000031;Huevo Pardo Empacado;2;13;26;Dom;33697;58.5;Chrome Mobile;Android;other
+P000025;110601000027;Pollo Entero S/M;1;16;16;Dom;33697;58.5;Chrome Mobile;Android;other
+P000025;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Dom;33697;58.5;Chrome Mobile;Android;other
+P000026;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33699;143.5;Chrome Mobile;Android;other
+P000026;110601000027;Pollo Entero S/M;4;16;64;Dom;33699;143.5;Chrome Mobile;Android;other
+P000026;110601200009;Pierna Encuentro Fresca;1;54;54;Dom;33699;143.5;Chrome Mobile;Android;other
+P000026;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Dom;33699;143.5;Chrome Mobile;Android;other
+P000027;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33701;160.3;Mobile Safari;iOS;iPhone
+P000027;110601400016;Filete de Pechuga;2;30;60;Dom;33701;160.3;Mobile Safari;iOS;iPhone
+P000027;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Dom;33701;160.3;Mobile Safari;iOS;iPhone
+P000027;110603500048;Filete a la Pimienta;4;13.5;54;Dom;33701;160.3;Mobile Safari;iOS;iPhone
+P000027;110603700015;Hamburguesa Premium;1;8.3;8.3;Dom;33701;160.3;Mobile Safari;iOS;iPhone
+P000028;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33690;98;Mobile Safari;iOS;iPhone
+P000028;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Dom;33690;98;Mobile Safari;iOS;iPhone
+P000028;110601400016;Filete de Pechuga;1;30;30;Dom;33690;98;Mobile Safari;iOS;iPhone
+P000028;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Dom;33690;98;Mobile Safari;iOS;iPhone
+P000028;110603500048;Filete a la Pimienta;1;13.5;13.5;Dom;33690;98;Mobile Safari;iOS;iPhone
+P000029;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33706;113.9;Chrome;Windows;other
+P000029;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Dom;33706;113.9;Chrome;Windows;other
+P000029;110601400016;Filete de Pechuga;2;30;60;Dom;33706;113.9;Chrome;Windows;other
+P000029;110603500019;Deditos de Pollo;1;7.8;7.8;Dom;33706;113.9;Chrome;Windows;other
+P000029;110603700015;Hamburguesa Premium;2;8.3;16.6;Dom;33706;113.9;Chrome;Windows;other
+P000030;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33707;104.3;Facebook;Android;other
+P000030;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Dom;33707;104.3;Facebook;Android;other
+P000030;110601400015;Filete de Pechuga Corazon;1;32;32;Dom;33707;104.3;Facebook;Android;other
+P000030;110603500005;Nuggets Premium;1;6;6;Dom;33707;104.3;Facebook;Android;other
+P000030;110603500019;Deditos de Pollo;1;7.8;7.8;Dom;33707;104.3;Facebook;Android;other
+P000030;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Dom;33707;104.3;Facebook;Android;other
+P000031;110601400016;Filete de Pechuga;1;30;30;Dom;33709;57;Chrome;Mac OS X;other
+P000031;110603500048;Filete a la Pimienta;2;13.5;27;Dom;33709;57;Chrome;Mac OS X;other
+P000032;110501000031;Huevo Pardo Empacado;1;13;13;Dom;33712;77;Mobile Safari;iOS;iPad
+P000032;110601000027;Pollo Entero S/M;4;16;64;Dom;33712;77;Mobile Safari;iOS;iPad
+P000033;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33715;97;Mobile Safari;iOS;iPhone
+P000033;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33715;97;Mobile Safari;iOS;iPhone
+P000033;110601400016;Filete de Pechuga;1;30;30;Lun;33715;97;Mobile Safari;iOS;iPhone
+P000034;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33716;129;Chrome;Windows;other
+P000034;110601200016;Muslos Frescos;1;54;54;Lun;33716;129;Chrome;Windows;other
+P000034;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33716;129;Chrome;Windows;other
+P000034;110601400016;Filete de Pechuga;1;30;30;Lun;33716;129;Chrome;Windows;other
+P000035;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33718;92.4;Chrome Mobile;Android;other
+P000035;110601400016;Filete de Pechuga;1;30;30;Lun;33718;92.4;Chrome Mobile;Android;other
+P000035;110603500005;Nuggets Premium;2;6;12;Lun;33718;92.4;Chrome Mobile;Android;other
+P000035;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33718;92.4;Chrome Mobile;Android;other
+P000035;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33718;92.4;Chrome Mobile;Android;other
+P000036;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33719;55;Facebook;Android;Samsung
+P000036;110601000027;Pollo Entero S/M;1;16;16;Lun;33719;55;Facebook;Android;Samsung
+P000037;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33722;95.6;Facebook;Android;Samsung
+P000037;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;33722;95.6;Facebook;Android;Samsung
+P000037;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33722;95.6;Facebook;Android;Samsung
+P000038;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33723;71;Firefox;Windows;other
+P000038;110601000027;Pollo Entero S/M;2;16;32;Lun;33723;71;Firefox;Windows;other
+P000039;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33721;87;Chrome;Windows;other
+P000039;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33721;87;Chrome;Windows;other
+P000040;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33726;130.4;Chrome;Windows;other
+P000040;110601000027;Pollo Entero S/M;4;16;64;Lun;33726;130.4;Chrome;Windows;other
+P000040;110603500005;Nuggets Premium;2;6;12;Lun;33726;130.4;Chrome;Windows;other
+P000040;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33726;130.4;Chrome;Windows;other
+P000040;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33726;130.4;Chrome;Windows;other
+P000041;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33728;59;Chrome;Windows;other
+P000041;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33728;59;Chrome;Windows;other
+P000042;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33727;69.3;Mobile Safari;iOS;iPhone
+P000042;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33727;69.3;Mobile Safari;iOS;iPhone
+P000042;110603500005;Nuggets Premium;1;6;6;Lun;33727;69.3;Mobile Safari;iOS;iPhone
+P000042;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33727;69.3;Mobile Safari;iOS;iPhone
+P000042;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33727;69.3;Mobile Safari;iOS;iPhone
+P000042;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33727;69.3;Mobile Safari;iOS;iPhone
+P000043;110601000027;Pollo Entero S/M;2;16;32;Lun;33729;62;Chrome Mobile;Android;other
+P000043;110601400016;Filete de Pechuga;1;30;30;Lun;33729;62;Chrome Mobile;Android;other
+P000044;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33730;109.5;Chrome Mobile iOS;iOS;iPhone
+P000044;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33730;109.5;Chrome Mobile iOS;iOS;iPhone
+P000044;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33730;109.5;Chrome Mobile iOS;iOS;iPhone
+P000044;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33730;109.5;Chrome Mobile iOS;iOS;iPhone
+P000044;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33730;109.5;Chrome Mobile iOS;iOS;iPhone
+P000045;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33732;59.5;Mobile Safari;iOS;iPhone
+P000045;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33732;59.5;Mobile Safari;iOS;iPhone
+P000045;110601400016;Filete de Pechuga;1;30;30;Lun;33732;59.5;Mobile Safari;iOS;iPhone
+P000046;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33733;139.1;Chrome Mobile;Android;other
+P000046;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33733;139.1;Chrome Mobile;Android;other
+P000046;110601400016;Filete de Pechuga;2;30;60;Lun;33733;139.1;Chrome Mobile;Android;other
+P000046;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33733;139.1;Chrome Mobile;Android;other
+P000047;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33734;52.8;Chrome Mobile iOS;iOS;iPhone
+P000047;110603500005;Nuggets Premium;1;6;6;Lun;33734;52.8;Chrome Mobile iOS;iOS;iPhone
+P000047;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33734;52.8;Chrome Mobile iOS;iOS;iPhone
+P000047;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33734;52.8;Chrome Mobile iOS;iOS;iPhone
+P000047;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33734;52.8;Chrome Mobile iOS;iOS;iPhone
+P000048;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33737;59.2;Mobile Safari;iOS;iPhone
+P000048;110601000027;Pollo Entero S/M;2;16;32;Lun;33737;59.2;Mobile Safari;iOS;iPhone
+P000048;110603500005;Nuggets Premium;1;6;6;Lun;33737;59.2;Mobile Safari;iOS;iPhone
+P000048;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33737;59.2;Mobile Safari;iOS;iPhone
+P000049;110601400016;Filete de Pechuga;1;30;30;Lun;33738;56.7;Chrome Mobile;Android;other
+P000049;110603500005;Nuggets Premium;1;6;6;Lun;33738;56.7;Chrome Mobile;Android;other
+P000049;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33738;56.7;Chrome Mobile;Android;other
+P000049;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33738;56.7;Chrome Mobile;Android;other
+P000050;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33739;141;Chrome;Windows;other
+P000050;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33739;141;Chrome;Windows;other
+P000050;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;33739;141;Chrome;Windows;other
+P000051;110601400016;Filete de Pechuga;2;30;60;Lun;33742;60;Mobile Safari;WKWebView;iOS
+P000052;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33747;147.1;Mobile Safari;iOS;iPhone
+P000052;110601400016;Filete de Pechuga;2;30;60;Lun;33747;147.1;Mobile Safari;iOS;iPhone
+P000052;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33747;147.1;Mobile Safari;iOS;iPhone
+P000052;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33747;147.1;Mobile Safari;iOS;iPhone
+P000052;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33747;147.1;Mobile Safari;iOS;iPhone
+P000053;110601000027;Pollo Entero S/M;1;16;16;Lun;33750;73.2;Mobile Safari;iOS;iPhone
+P000053;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33750;73.2;Mobile Safari;iOS;iPhone
+P000053;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33750;73.2;Mobile Safari;iOS;iPhone
+P000053;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33750;73.2;Mobile Safari;iOS;iPhone
+P000054;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;33730;55;Chrome Mobile iOS;iOS;iPhone
+P000055;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33748;83.8;Edge;Windows;other
+P000055;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33748;83.8;Edge;Windows;other
+P000055;110601400016;Filete de Pechuga;1;30;30;Lun;33748;83.8;Edge;Windows;other
+P000055;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33748;83.8;Edge;Windows;other
+P000056;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33744;107.5;Chrome;Windows;other
+P000056;110601000027;Pollo Entero S/M;2;16;32;Lun;33744;107.5;Chrome;Windows;other
+P000056;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33744;107.5;Chrome;Windows;other
+P000057;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33741;99;Chrome;Windows;other
+P000057;110601000027;Pollo Entero S/M;3;16;48;Lun;33741;99;Chrome;Windows;other
+P000057;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33741;99;Chrome;Windows;other
+P000058;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33751;78.4;Chrome;Windows;other
+P000058;110601000027;Pollo Entero S/M;1;16;16;Lun;33751;78.4;Chrome;Windows;other
+P000058;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33751;78.4;Chrome;Windows;other
+P000058;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33751;78.4;Chrome;Windows;other
+P000058;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33751;78.4;Chrome;Windows;other
+P000059;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33746;70.8;Chrome;Windows;other
+P000059;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33746;70.8;Chrome;Windows;other
+P000059;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33746;70.8;Chrome;Windows;other
+P000060;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33753;62.6;Chrome;Windows;other
+P000060;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33753;62.6;Chrome;Windows;other
+P000060;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33753;62.6;Chrome;Windows;other
+P000061;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33752;69;Mobile Safari;iOS;iPhone
+P000061;110601400016;Filete de Pechuga;1;30;30;Lun;33752;69;Mobile Safari;iOS;iPhone
+P000061;110603500005;Nuggets Premium;1;6;6;Lun;33752;69;Mobile Safari;iOS;iPhone
+P000062;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33757;76;Mobile Safari;WKWebView;iOS
+P000062;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33757;76;Mobile Safari;WKWebView;iOS
+P000062;110601400016;Filete de Pechuga;1;30;30;Lun;33757;76;Mobile Safari;WKWebView;iOS
+P000063;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33740;57;Chrome;Windows;other
+P000063;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33740;57;Chrome;Windows;other
+P000063;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33740;57;Chrome;Windows;other
+P000064;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33756;85.8;Chrome;Windows;other
+P000064;110601000027;Pollo Entero S/M;1;16;16;Lun;33756;85.8;Chrome;Windows;other
+P000064;110601400016;Filete de Pechuga;1;30;30;Lun;33756;85.8;Chrome;Windows;other
+P000064;110603500005;Nuggets Premium;1;6;6;Lun;33756;85.8;Chrome;Windows;other
+P000064;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33756;85.8;Chrome;Windows;other
+P000065;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33760;104.5;Chrome;Windows;other
+P000065;110601400015;Filete de Pechuga Corazon;2;32;64;Lun;33760;104.5;Chrome;Windows;other
+P000065;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33760;104.5;Chrome;Windows;other
+P000066;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33764;52.8;Safari;Mac OS X;other
+P000066;110601000027;Pollo Entero S/M;2;16;32;Lun;33764;52.8;Safari;Mac OS X;other
+P000066;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33764;52.8;Safari;Mac OS X;other
+P000067;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33761;104.8;Mobile Safari;iOS;iPhone
+P000067;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33761;104.8;Mobile Safari;iOS;iPhone
+P000067;110603500005;Nuggets Premium;2;6;12;Lun;33761;104.8;Mobile Safari;iOS;iPhone
+P000067;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33761;104.8;Mobile Safari;iOS;iPhone
+P000067;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33761;104.8;Mobile Safari;iOS;iPhone
+P000068;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33754;61.6;Mobile Safari;WKWebView;iOS
+P000068;110601000027;Pollo Entero S/M;2;16;32;Lun;33754;61.6;Mobile Safari;WKWebView;iOS
+P000068;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33754;61.6;Mobile Safari;WKWebView;iOS
+P000069;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33766;56.6;Mobile Safari;WKWebView;iOS
+P000069;110601000027;Pollo Entero S/M;1;16;16;Lun;33766;56.6;Mobile Safari;WKWebView;iOS
+P000069;110603500005;Nuggets Premium;2;6;12;Lun;33766;56.6;Mobile Safari;WKWebView;iOS
+P000069;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33766;56.6;Mobile Safari;WKWebView;iOS
+P000070;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33743;189.7;Chrome;Windows;other
+P000070;110601000027;Pollo Entero S/M;1;16;16;Lun;33743;189.7;Chrome;Windows;other
+P000070;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33743;189.7;Chrome;Windows;other
+P000070;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33743;189.7;Chrome;Windows;other
+P000070;110601400016;Filete de Pechuga;2;30;60;Lun;33743;189.7;Chrome;Windows;other
+P000070;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33743;189.7;Chrome;Windows;other
+P000070;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33743;189.7;Chrome;Windows;other
+P000071;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33767;147;Chrome;Windows;other
+P000071;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33767;147;Chrome;Windows;other
+P000071;110601400016;Filete de Pechuga;2;30;60;Lun;33767;147;Chrome;Windows;other
+P000072;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33771;86;Chrome Mobile;Android;other
+P000072;110601000027;Pollo Entero S/M;3;16;48;Lun;33771;86;Chrome Mobile;Android;other
+P000072;110603500005;Nuggets Premium;2;6;12;Lun;33771;86;Chrome Mobile;Android;other
+P000073;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33768;59.5;Mobile Safari;iOS;iPhone
+P000073;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33768;59.5;Mobile Safari;iOS;iPhone
+P000073;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33768;59.5;Mobile Safari;iOS;iPhone
+P000073;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33768;59.5;Mobile Safari;iOS;iPhone
+P000073;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33768;59.5;Mobile Safari;iOS;iPhone
+P000074;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33758;87.5;Safari;Mac OS X;other
+P000074;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33758;87.5;Safari;Mac OS X;other
+P000074;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33758;87.5;Safari;Mac OS X;other
+P000074;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33758;87.5;Safari;Mac OS X;other
+P000074;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33758;87.5;Safari;Mac OS X;other
+P000075;110601200016;Muslos Frescos;1;54;54;Lun;33774;84;Chrome;Windows;other
+P000075;110601400016;Filete de Pechuga;1;30;30;Lun;33774;84;Chrome;Windows;other
+P000076;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33778;103.5;Mobile Safari;WKWebView;iOS
+P000076;110601000027;Pollo Entero S/M;1;16;16;Lun;33778;103.5;Mobile Safari;WKWebView;iOS
+P000076;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33778;103.5;Mobile Safari;WKWebView;iOS
+P000076;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33778;103.5;Mobile Safari;WKWebView;iOS
+P000076;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33778;103.5;Mobile Safari;WKWebView;iOS
+P000076;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33778;103.5;Mobile Safari;WKWebView;iOS
+P000077;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33745;119;Chrome;Windows;other
+P000077;110601000027;Pollo Entero S/M;1;16;16;Lun;33745;119;Chrome;Windows;other
+P000077;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33745;119;Chrome;Windows;other
+P000077;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33745;119;Chrome;Windows;other
+P000078;110601400016;Filete de Pechuga;1;30;30;Lun;33783;55;Chrome Mobile;Android;other
+P000078;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33783;55;Chrome Mobile;Android;other
+P000079;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33780;52;Mobile Safari;iOS;iPhone
+P000079;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33780;52;Mobile Safari;iOS;iPhone
+P000079;110603500005;Nuggets Premium;1;6;6;Lun;33780;52;Mobile Safari;iOS;iPhone
+P000079;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33780;52;Mobile Safari;iOS;iPhone
+P000079;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33780;52;Mobile Safari;iOS;iPhone
+P000080;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33785;71.3;Edge;Windows;other
+P000080;110601400016;Filete de Pechuga;1;30;30;Lun;33785;71.3;Edge;Windows;other
+P000080;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33785;71.3;Edge;Windows;other
+P000081;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33762;159;Chrome;Windows;other
+P000081;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33762;159;Chrome;Windows;other
+P000081;110601200016;Muslos Frescos;1;54;54;Lun;33762;159;Chrome;Windows;other
+P000081;110603500005;Nuggets Premium;1;6;6;Lun;33762;159;Chrome;Windows;other
+P000081;110603500019;Deditos de Pollo;4;7.8;31.2;Lun;33762;159;Chrome;Windows;other
+P000081;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33762;159;Chrome;Windows;other
+P000081;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33762;159;Chrome;Windows;other
+P000082;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33790;179.4;Samsung Internet;Android;Samsung
+P000082;110601200016;Muslos Frescos;1;54;54;Lun;33790;179.4;Samsung Internet;Android;Samsung
+P000082;110601400015;Filete de Pechuga Corazon;3;32;96;Lun;33790;179.4;Samsung Internet;Android;Samsung
+P000082;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33790;179.4;Samsung Internet;Android;Samsung
+P000083;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33788;55.6;Chrome;Windows;other
+P000083;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33788;55.6;Chrome;Windows;other
+P000084;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33755;145.2;Mobile Safari;WKWebView;iOS
+P000084;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33755;145.2;Mobile Safari;WKWebView;iOS
+P000084;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33755;145.2;Mobile Safari;WKWebView;iOS
+P000084;110603700015;Hamburguesa Premium;4;8.3;33.2;Lun;33755;145.2;Mobile Safari;WKWebView;iOS
+P000085;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33749;215;Chrome Mobile;Android;other
+P000085;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33749;215;Chrome Mobile;Android;other
+P000085;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33749;215;Chrome Mobile;Android;other
+P000085;110601400015;Filete de Pechuga Corazon;2;32;64;Lun;33749;215;Chrome Mobile;Android;other
+P000085;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33749;215;Chrome Mobile;Android;other
+P000086;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33789;96.8;Mobile Safari;iOS;iPhone
+P000086;110601000027;Pollo Entero S/M;1;16;16;Lun;33789;96.8;Mobile Safari;iOS;iPhone
+P000086;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33789;96.8;Mobile Safari;iOS;iPhone
+P000086;110603500005;Nuggets Premium;1;6;6;Lun;33789;96.8;Mobile Safari;iOS;iPhone
+P000086;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33789;96.8;Mobile Safari;iOS;iPhone
+P000087;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33776;170;Chrome Mobile;Android;other
+P000087;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33776;170;Chrome Mobile;Android;other
+P000087;110601400016;Filete de Pechuga;3;30;90;Lun;33776;170;Chrome Mobile;Android;other
+P000088;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33784;167.3;Mobile Safari;iOS;iPhone
+P000088;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33784;167.3;Mobile Safari;iOS;iPhone
+P000088;110601200016;Muslos Frescos;1;54;54;Lun;33784;167.3;Mobile Safari;iOS;iPhone
+P000088;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33784;167.3;Mobile Safari;iOS;iPhone
+P000088;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33784;167.3;Mobile Safari;iOS;iPhone
+P000089;110601200016;Muslos Frescos;1;54;54;Lun;33769;54;Chrome;Windows;other
+P000090;110501000031;Huevo Pardo Empacado;4;13;52;Lun;33781;68.5;Edge;Windows;other
+P000090;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33781;68.5;Edge;Windows;other
+P000091;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33787;90;Chrome;Windows;other
+P000091;110601000027;Pollo Entero S/M;4;16;64;Lun;33787;90;Chrome;Windows;other
+P000092;110601000027;Pollo Entero S/M;2;16;32;Lun;33796;64.8;Mobile Safari;iOS;iPhone
+P000092;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33796;64.8;Mobile Safari;iOS;iPhone
+P000092;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33796;64.8;Mobile Safari;iOS;iPhone
+P000093;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33793;144;Chrome;Windows;other
+P000093;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33793;144;Chrome;Windows;other
+P000093;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33793;144;Chrome;Windows;other
+P000093;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33793;144;Chrome;Windows;other
+P000093;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33793;144;Chrome;Windows;other
+P000093;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33793;144;Chrome;Windows;other
+P000094;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33797;110.8;Mobile Safari;iOS;iPhone
+P000094;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33797;110.8;Mobile Safari;iOS;iPhone
+P000094;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33797;110.8;Mobile Safari;iOS;iPhone
+P000094;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33797;110.8;Mobile Safari;iOS;iPhone
+P000095;110601400016;Filete de Pechuga;1;30;30;Lun;33803;57;Chrome;Windows;other
+P000095;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33803;57;Chrome;Windows;other
+P000095;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33803;57;Chrome;Windows;other
+P000096;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33808;132.5;Chrome Mobile;Android;other
+P000096;110601000027;Pollo Entero S/M;1;16;16;Lun;33808;132.5;Chrome Mobile;Android;other
+P000096;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33808;132.5;Chrome Mobile;Android;other
+P000096;110601400016;Filete de Pechuga;2;30;60;Lun;33808;132.5;Chrome Mobile;Android;other
+P000096;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33808;132.5;Chrome Mobile;Android;other
+P000096;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33808;132.5;Chrome Mobile;Android;other
+P000097;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33795;157.6;Chrome;Windows;other
+P000097;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33795;157.6;Chrome;Windows;other
+P000097;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33795;157.6;Chrome;Windows;other
+P000097;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33795;157.6;Chrome;Windows;other
+P000097;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33795;157.6;Chrome;Windows;other
+P000097;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33795;157.6;Chrome;Windows;other
+P000097;110603500049;Filete  a la Criolla;2;13.5;27;Lun;33795;157.6;Chrome;Windows;other
+P000097;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33795;157.6;Chrome;Windows;other
+P000098;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33810;155;Mobile Safari;WKWebView;iOS
+P000098;110601000027;Pollo Entero S/M;2;16;32;Lun;33810;155;Mobile Safari;WKWebView;iOS
+P000098;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33810;155;Mobile Safari;WKWebView;iOS
+P000098;110601400016;Filete de Pechuga;1;30;30;Lun;33810;155;Mobile Safari;WKWebView;iOS
+P000099;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33801;150.8;Chrome Mobile;Android;other
+P000099;110601000027;Pollo Entero S/M;2;16;32;Lun;33801;150.8;Chrome Mobile;Android;other
+P000099;110601400016;Filete de Pechuga;1;30;30;Lun;33801;150.8;Chrome Mobile;Android;other
+P000099;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33801;150.8;Chrome Mobile;Android;other
+P000099;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33801;150.8;Chrome Mobile;Android;other
+P000099;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33801;150.8;Chrome Mobile;Android;other
+P000100;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33813;128;Mobile Safari;WKWebView;iOS
+P000100;110601400016;Filete de Pechuga;3;30;90;Lun;33813;128;Mobile Safari;WKWebView;iOS
+P000100;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33813;128;Mobile Safari;WKWebView;iOS
+P000101;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33786;148.4;Chrome Mobile;Android;other
+P000101;110601000027;Pollo Entero S/M;4;16;64;Lun;33786;148.4;Chrome Mobile;Android;other
+P000101;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33786;148.4;Chrome Mobile;Android;other
+P000101;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;33786;148.4;Chrome Mobile;Android;other
+P000102;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33815;77;Chrome Mobile;Android;other
+P000102;110601000027;Pollo Entero S/M;4;16;64;Lun;33815;77;Chrome Mobile;Android;other
+P000103;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33805;97;Chrome;Windows;other
+P000103;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33805;97;Chrome;Windows;other
+P000103;110601400016;Filete de Pechuga;1;30;30;Lun;33805;97;Chrome;Windows;other
+P000104;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33799;139;Chrome Mobile;Android;other
+P000104;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;33799;139;Chrome Mobile;Android;other
+P000104;110601400016;Filete de Pechuga;2;30;60;Lun;33799;139;Chrome Mobile;Android;other
+P000105;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33819;54.2;Mobile Safari;iOS;iPhone
+P000105;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33819;54.2;Mobile Safari;iOS;iPhone
+P000105;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33819;54.2;Mobile Safari;iOS;iPhone
+P000106;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33817;97.7;Chrome Mobile;Android;other
+P000106;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33817;97.7;Chrome Mobile;Android;other
+P000106;110601400016;Filete de Pechuga;1;30;30;Lun;33817;97.7;Chrome Mobile;Android;other
+P000106;110603500005;Nuggets Premium;1;6;6;Lun;33817;97.7;Chrome Mobile;Android;other
+P000106;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33817;97.7;Chrome Mobile;Android;other
+P000106;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33817;97.7;Chrome Mobile;Android;other
+P000107;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33814;120.5;Facebook;Android;Moto
+P000107;110603500005;Nuggets Premium;2;6;12;Lun;33814;120.5;Facebook;Android;Moto
+P000107;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33814;120.5;Facebook;Android;Moto
+P000107;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33814;120.5;Facebook;Android;Moto
+P000108;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33802;76.6;Chrome;Windows;other
+P000108;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33802;76.6;Chrome;Windows;other
+P000108;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33802;76.6;Chrome;Windows;other
+P000108;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33802;76.6;Chrome;Windows;other
+P000109;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33821;109;Chrome;Windows;other
+P000109;110601400015;Filete de Pechuga Corazon;3;32;96;Lun;33821;109;Chrome;Windows;other
+P000110;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33823;91;Chrome Mobile;Android;other
+P000110;110601000027;Pollo Entero S/M;3;16;48;Lun;33823;91;Chrome Mobile;Android;other
+P000110;110601400016;Filete de Pechuga;1;30;30;Lun;33823;91;Chrome Mobile;Android;other
+P000111;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33804;112.5;Chrome;Mac OS X;other
+P000111;110601000027;Pollo Entero S/M;1;16;16;Lun;33804;112.5;Chrome;Mac OS X;other
+P000111;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33804;112.5;Chrome;Mac OS X;other
+P000111;110601400016;Filete de Pechuga;1;30;30;Lun;33804;112.5;Chrome;Mac OS X;other
+P000111;110603500005;Nuggets Premium;2;6;12;Lun;33804;112.5;Chrome;Mac OS X;other
+P000111;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33804;112.5;Chrome;Mac OS X;other
+P000112;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33816;113.5;Mobile Safari;iOS;iPhone
+P000112;110601000027;Pollo Entero S/M;1;16;16;Lun;33816;113.5;Mobile Safari;iOS;iPhone
+P000112;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33816;113.5;Mobile Safari;iOS;iPhone
+P000112;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;33816;113.5;Mobile Safari;iOS;iPhone
+P000113;110603500005;Nuggets Premium;4;6;24;Lun;33782;52.1;Chrome;Windows;other
+P000113;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33782;52.1;Chrome;Windows;other
+P000113;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33782;52.1;Chrome;Windows;other
+P000114;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33825;86;Chrome Mobile;Android;other
+P000114;110601400016;Filete de Pechuga;2;30;60;Lun;33825;86;Chrome Mobile;Android;other
+P000115;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33802;76.6;Chrome;Windows;other
+P000115;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33802;76.6;Chrome;Windows;other
+P000115;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33802;76.6;Chrome;Windows;other
+P000115;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33802;76.6;Chrome;Windows;other
+P000116;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110601000027;Pollo Entero S/M;1;16;16;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110601400016;Filete de Pechuga;1;30;30;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110603500005;Nuggets Premium;2;6;12;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33828;170.4;Facebook;Android;Samsung
+P000116;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33828;170.4;Facebook;Android;Samsung
+P000117;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33800;73;Chrome;Windows;other
+P000117;110601400016;Filete de Pechuga;2;30;60;Lun;33800;73;Chrome;Windows;other
+P000118;110601000027;Pollo Entero S/M;3;16;48;Lun;33830;54;Chrome;Windows;other
+P000118;110603500005;Nuggets Premium;1;6;6;Lun;33830;54;Chrome;Windows;other
+P000119;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33831;85.5;Mobile Safari;iOS;iPhone
+P000119;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33831;85.5;Mobile Safari;iOS;iPhone
+P000119;110603500005;Nuggets Premium;1;6;6;Lun;33831;85.5;Mobile Safari;iOS;iPhone
+P000119;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33831;85.5;Mobile Safari;iOS;iPhone
+P000120;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33826;101.5;Mobile Safari;iOS;iPhone
+P000120;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33826;101.5;Mobile Safari;iOS;iPhone
+P000120;110603500005;Nuggets Premium;1;6;6;Lun;33826;101.5;Mobile Safari;iOS;iPhone
+P000120;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33826;101.5;Mobile Safari;iOS;iPhone
+P000120;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33826;101.5;Mobile Safari;iOS;iPhone
+P000120;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33826;101.5;Mobile Safari;iOS;iPhone
+P000121;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33811;227;Chrome;Mac OS X;other
+P000121;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33811;227;Chrome;Mac OS X;other
+P000121;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33811;227;Chrome;Mac OS X;other
+P000121;110601400015;Filete de Pechuga Corazon;2;32;64;Lun;33811;227;Chrome;Mac OS X;other
+P000121;110603500029;Chicharron de Pechuga de Pollo;4;12.5;50;Lun;33811;227;Chrome;Mac OS X;other
+P000122;110601000027;Pollo Entero S/M;1;16;16;Lun;33836;100;Mobile Safari;iOS;iPhone
+P000122;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33836;100;Mobile Safari;iOS;iPhone
+P000122;110601400016;Filete de Pechuga;1;30;30;Lun;33836;100;Mobile Safari;iOS;iPhone
+P000123;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33818;98.6;Chrome;Mac OS X;other
+P000123;110601000027;Pollo Entero S/M;2;16;32;Lun;33818;98.6;Chrome;Mac OS X;other
+P000123;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33818;98.6;Chrome;Mac OS X;other
+P000123;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33818;98.6;Chrome;Mac OS X;other
+P000124;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000124;110601000027;Pollo Entero S/M;6;16;96;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000124;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000124;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000124;110601400016;Filete de Pechuga;1;30;30;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000124;110603500005;Nuggets Premium;2;6;12;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000124;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33833;266.6;Mobile Safari;iOS;iPhone
+P000125;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33835;59.3;Chrome;Mac OS X;other
+P000125;110601000027;Pollo Entero S/M;2;16;32;Lun;33835;59.3;Chrome;Mac OS X;other
+P000125;110603500005;Nuggets Premium;1;6;6;Lun;33835;59.3;Chrome;Mac OS X;other
+P000125;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33835;59.3;Chrome;Mac OS X;other
+P000126;110601000027;Pollo Entero S/M;2;16;32;Lun;33829;72.2;Chrome;Windows;other
+P000126;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33829;72.2;Chrome;Windows;other
+P000126;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33829;72.2;Chrome;Windows;other
+P000127;110501000031;Huevo Pardo Empacado;4;13;52;Lun;33837;139.3;Chrome;Windows;other
+P000127;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33837;139.3;Chrome;Windows;other
+P000127;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33837;139.3;Chrome;Windows;other
+P000127;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33837;139.3;Chrome;Windows;other
+P000128;110601400016;Filete de Pechuga;2;30;60;Lun;33809;60;Chrome;Windows;other
+P000129;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110603500005;Nuggets Premium;1;6;6;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110603500049;Filete  a la Criolla;2;13.5;27;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000129;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33791;183.4;Chrome Mobile iOS;iOS;iPhone
+P000130;110601000027;Pollo Entero S/M;2;16;32;Lun;33839;107;Chrome Mobile;Android;other
+P000130;110601400016;Filete de Pechuga;1;30;30;Lun;33839;107;Chrome Mobile;Android;other
+P000130;110603500005;Nuggets Premium;2;6;12;Lun;33839;107;Chrome Mobile;Android;other
+P000130;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33839;107;Chrome Mobile;Android;other
+P000130;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33839;107;Chrome Mobile;Android;other
+P000131;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33807;103;Mobile Safari;iOS;iPhone
+P000131;110601400016;Filete de Pechuga;3;30;90;Lun;33807;103;Mobile Safari;iOS;iPhone
+P000132;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33847;96.7;Chrome;Windows;other
+P000132;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33847;96.7;Chrome;Windows;other
+P000132;110601400016;Filete de Pechuga;1;30;30;Lun;33847;96.7;Chrome;Windows;other
+P000132;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33847;96.7;Chrome;Windows;other
+P000132;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33847;96.7;Chrome;Windows;other
+P000133;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33772;74.5;Chrome;Windows;other
+P000133;110603500005;Nuggets Premium;1;6;6;Lun;33772;74.5;Chrome;Windows;other
+P000133;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33772;74.5;Chrome;Windows;other
+P000133;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33772;74.5;Chrome;Windows;other
+P000133;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33772;74.5;Chrome;Windows;other
+P000133;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33772;74.5;Chrome;Windows;other
+P000133;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33772;74.5;Chrome;Windows;other
+P000134;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33844;151;Facebook;Android;Moto
+P000134;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33844;151;Facebook;Android;Moto
+P000134;110601200016;Muslos Frescos;1;54;54;Lun;33844;151;Facebook;Android;Moto
+P000134;110601400016;Filete de Pechuga;1;30;30;Lun;33844;151;Facebook;Android;Moto
+P000135;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33849;178;Chrome;Windows;other
+P000135;110601000027;Pollo Entero S/M;1;16;16;Lun;33849;178;Chrome;Windows;other
+P000135;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33849;178;Chrome;Windows;other
+P000135;110601200016;Muslos Frescos;1;54;54;Lun;33849;178;Chrome;Windows;other
+P000135;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33849;178;Chrome;Windows;other
+P000135;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33849;178;Chrome;Windows;other
+P000136;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33820;71.8;Safari;Mac OS X;other
+P000136;110603500013;Nuggets con Quinua;4;8.2;32.8;Lun;33820;71.8;Safari;Mac OS X;other
+P000137;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33838;80;Chrome;Mac OS X;other
+P000137;110603500005;Nuggets Premium;2;6;12;Lun;33838;80;Chrome;Mac OS X;other
+P000137;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;33838;80;Chrome;Mac OS X;other
+P000138;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33852;51;Chrome;Windows;other
+P000138;110601000027;Pollo Entero S/M;2;16;32;Lun;33852;51;Chrome;Windows;other
+P000138;110603500005;Nuggets Premium;1;6;6;Lun;33852;51;Chrome;Windows;other
+P000139;110501000031;Huevo Pardo Empacado;4;13;52;Lun;33846;68;Chrome;Windows;other
+P000139;110601000027;Pollo Entero S/M;1;16;16;Lun;33846;68;Chrome;Windows;other
+P000140;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33850;79.5;Chrome;Mac OS X;other
+P000140;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33850;79.5;Chrome;Mac OS X;other
+P000140;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33850;79.5;Chrome;Mac OS X;other
+P000141;110601000027;Pollo Entero S/M;2;16;32;Lun;33772;54.4;Chrome;Windows;other
+P000141;110603500005;Nuggets Premium;1;6;6;Lun;33772;54.4;Chrome;Windows;other
+P000141;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33772;54.4;Chrome;Windows;other
+P000142;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33856;59.5;Mobile Safari;iOS;iPhone
+P000142;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33856;59.5;Mobile Safari;iOS;iPhone
+P000142;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33856;59.5;Mobile Safari;iOS;iPhone
+P000142;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33856;59.5;Mobile Safari;iOS;iPhone
+P000143;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33840;99.2;Chrome Mobile;Android;other
+P000143;110601000027;Pollo Entero S/M;1;16;16;Lun;33840;99.2;Chrome Mobile;Android;other
+P000143;110601400016;Filete de Pechuga;1;30;30;Lun;33840;99.2;Chrome Mobile;Android;other
+P000143;110603500005;Nuggets Premium;1;6;6;Lun;33840;99.2;Chrome Mobile;Android;other
+P000143;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33840;99.2;Chrome Mobile;Android;other
+P000144;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33861;100;Mobile Safari;iOS;iPhone
+P000144;110601400016;Filete de Pechuga;2;30;60;Lun;33861;100;Mobile Safari;iOS;iPhone
+P000144;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33861;100;Mobile Safari;iOS;iPhone
+P000145;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33858;146.8;Chrome;Windows;other
+P000145;110601200016;Muslos Frescos;1;54;54;Lun;33858;146.8;Chrome;Windows;other
+P000145;110601400016;Filete de Pechuga;2;30;60;Lun;33858;146.8;Chrome;Windows;other
+P000145;110603500005;Nuggets Premium;2;6;12;Lun;33858;146.8;Chrome;Windows;other
+P000145;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33858;146.8;Chrome;Windows;other
+P000146;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33862;53.9;Mobile Safari;iOS;iPhone
+P000146;110601000027;Pollo Entero S/M;1;16;16;Lun;33862;53.9;Mobile Safari;iOS;iPhone
+P000146;110603700015;Hamburguesa Premium;3;8.3;24.9;Lun;33862;53.9;Mobile Safari;iOS;iPhone
+P000147;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33763;127.3;Chrome;Windows;other
+P000147;110601000027;Pollo Entero S/M;1;16;16;Lun;33763;127.3;Chrome;Windows;other
+P000147;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33763;127.3;Chrome;Windows;other
+P000147;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33763;127.3;Chrome;Windows;other
+P000147;110603500005;Nuggets Premium;1;6;6;Lun;33763;127.3;Chrome;Windows;other
+P000147;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33763;127.3;Chrome;Windows;other
+P000147;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33763;127.3;Chrome;Windows;other
+P000148;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33848;99;Mobile Safari;iOS;iPhone
+P000148;110601400016;Filete de Pechuga;2;30;60;Lun;33848;99;Mobile Safari;iOS;iPhone
+P000149;110601000027;Pollo Entero S/M;1;16;16;Lun;33866;61.6;Chrome;Windows;other
+P000149;110601400016;Filete de Pechuga;1;30;30;Lun;33866;61.6;Chrome;Windows;other
+P000149;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33866;61.6;Chrome;Windows;other
+P000150;110601400016;Filete de Pechuga;1;30;30;Lun;33854;50.2;Mobile Safari;iOS;iPhone
+P000150;110603500005;Nuggets Premium;2;6;12;Lun;33854;50.2;Mobile Safari;iOS;iPhone
+P000150;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33854;50.2;Mobile Safari;iOS;iPhone
+P000151;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33865;56.5;Mobile Safari;iOS;iPhone
+P000151;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33865;56.5;Mobile Safari;iOS;iPhone
+P000151;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33865;56.5;Mobile Safari;iOS;iPhone
+P000151;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33865;56.5;Mobile Safari;iOS;iPhone
+P000152;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33864;116;Mobile Safari;iOS;iPhone
+P000152;110601400016;Filete de Pechuga;3;30;90;Lun;33864;116;Mobile Safari;iOS;iPhone
+P000153;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33860;73;Chrome Mobile;Android;other
+P000153;110601000027;Pollo Entero S/M;1;16;16;Lun;33860;73;Chrome Mobile;Android;other
+P000153;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33860;73;Chrome Mobile;Android;other
+P000153;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33860;73;Chrome Mobile;Android;other
+P000154;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33859;134.8;Chrome;Windows;other
+P000154;110601400016;Filete de Pechuga;2;30;60;Lun;33859;134.8;Chrome;Windows;other
+P000154;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33859;134.8;Chrome;Windows;other
+P000154;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33859;134.8;Chrome;Windows;other
+P000154;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33859;134.8;Chrome;Windows;other
+P000154;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33859;134.8;Chrome;Windows;other
+P000155;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33863;110.7;Safari;Mac OS X;other
+P000155;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33863;110.7;Safari;Mac OS X;other
+P000155;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33863;110.7;Safari;Mac OS X;other
+P000155;110603500049;Filete  a la Criolla;2;13.5;27;Lun;33863;110.7;Safari;Mac OS X;other
+P000156;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33857;75;Chrome;Mac OS X;other
+P000156;110601000027;Pollo Entero S/M;2;16;32;Lun;33857;75;Chrome;Mac OS X;other
+P000156;110601400016;Filete de Pechuga;1;30;30;Lun;33857;75;Chrome;Mac OS X;other
+P000157;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33871;95.1;Firefox;Windows;other
+P000157;110601400016;Filete de Pechuga;2;30;60;Lun;33871;95.1;Firefox;Windows;other
+P000157;110603500005;Nuggets Premium;1;6;6;Lun;33871;95.1;Firefox;Windows;other
+P000157;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33871;95.1;Firefox;Windows;other
+P000157;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33871;95.1;Firefox;Windows;other
+P000158;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33878;59.4;Samsung Internet;Android;Samsung
+P000158;110601400016;Filete de Pechuga;1;30;30;Lun;33878;59.4;Samsung Internet;Android;Samsung
+P000158;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33878;59.4;Samsung Internet;Android;Samsung
+P000159;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33876;128;Chrome Mobile;Android;other
+P000159;110601000027;Pollo Entero S/M;3;16;48;Lun;33876;128;Chrome Mobile;Android;other
+P000159;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33876;128;Chrome Mobile;Android;other
+P000160;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33872;99.5;Chrome;Windows;other
+P000160;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33872;99.5;Chrome;Windows;other
+P000160;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33872;99.5;Chrome;Windows;other
+P000160;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33872;99.5;Chrome;Windows;other
+P000161;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33879;59;Chrome;Windows;other
+P000161;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33879;59;Chrome;Windows;other
+P000162;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33884;55.5;Chrome Mobile;Android;other
+P000162;110601400016;Filete de Pechuga;1;30;30;Lun;33884;55.5;Chrome Mobile;Android;other
+P000162;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33884;55.5;Chrome Mobile;Android;other
+P000163;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33880;116;Mobile Safari;iOS;iPhone
+P000163;110601400016;Filete de Pechuga;3;30;90;Lun;33880;116;Mobile Safari;iOS;iPhone
+P000164;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33812;116.4;Mobile Safari;iOS;iPhone
+P000164;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33812;116.4;Mobile Safari;iOS;iPhone
+P000164;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33812;116.4;Mobile Safari;iOS;iPhone
+P000164;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33812;116.4;Mobile Safari;iOS;iPhone
+P000165;110601000027;Pollo Entero S/M;2;16;32;Lun;33883;50.5;Chrome Mobile;Android;other
+P000165;110603500005;Nuggets Premium;1;6;6;Lun;33883;50.5;Chrome Mobile;Android;other
+P000165;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33883;50.5;Chrome Mobile;Android;other
+P000166;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33887;57.6;Chrome;Windows;other
+P000166;110601000027;Pollo Entero S/M;1;16;16;Lun;33887;57.6;Chrome;Windows;other
+P000166;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33887;57.6;Chrome;Windows;other
+P000166;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33887;57.6;Chrome;Windows;other
+P000166;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33887;57.6;Chrome;Windows;other
+P000167;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33888;58.5;Chrome Mobile;Android;other
+P000167;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33888;58.5;Chrome Mobile;Android;other
+P000167;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33888;58.5;Chrome Mobile;Android;other
+P000168;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33886;59.5;Chrome Mobile;Android;other
+P000168;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33886;59.5;Chrome Mobile;Android;other
+P000168;110601400016;Filete de Pechuga;1;30;30;Lun;33886;59.5;Chrome Mobile;Android;other
+P000169;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33882;143;Chrome;Windows;other
+P000169;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33882;143;Chrome;Windows;other
+P000169;110601200016;Muslos Frescos;1;54;54;Lun;33882;143;Chrome;Windows;other
+P000169;110601400016;Filete de Pechuga;1;30;30;Lun;33882;143;Chrome;Windows;other
+P000170;110601200009;Pierna Encuentro Fresca;2;54;108;Lun;33877;198;Safari;Mac OS X;other
+P000170;110601400016;Filete de Pechuga;3;30;90;Lun;33877;198;Safari;Mac OS X;other
+P000171;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33893;67;Chrome;Windows;other
+P000171;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33893;67;Chrome;Windows;other
+P000172;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33890;76.7;Chrome Mobile;Android;other
+P000172;110601400016;Filete de Pechuga;1;30;30;Lun;33890;76.7;Chrome Mobile;Android;other
+P000172;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33890;76.7;Chrome Mobile;Android;other
+P000172;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33890;76.7;Chrome Mobile;Android;other
+P000173;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33894;333.5;Mobile Safari;iOS;iPhone
+P000173;110601000027;Pollo Entero S/M;15;16;240;Lun;33894;333.5;Mobile Safari;iOS;iPhone
+P000173;110603500049;Filete  a la Criolla;5;13.5;67.5;Lun;33894;333.5;Mobile Safari;iOS;iPhone
+P000174;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33895;58;Chrome Mobile;Android;other
+P000174;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33895;58;Chrome Mobile;Android;other
+P000174;110603500005;Nuggets Premium;2;6;12;Lun;33895;58;Chrome Mobile;Android;other
+P000175;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33891;107;Chrome;Android;other
+P000175;110601000027;Pollo Entero S/M;2;16;32;Lun;33891;107;Chrome;Android;other
+P000175;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33891;107;Chrome;Android;other
+P000175;110601400016;Filete de Pechuga;1;30;30;Lun;33891;107;Chrome;Android;other
+P000176;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33896;118.1;Mobile Safari;WKWebView;iOS
+P000176;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33896;118.1;Mobile Safari;WKWebView;iOS
+P000176;110601400016;Filete de Pechuga;1;30;30;Lun;33896;118.1;Mobile Safari;WKWebView;iOS
+P000176;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33896;118.1;Mobile Safari;WKWebView;iOS
+P000176;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33896;118.1;Mobile Safari;WKWebView;iOS
+P000177;110603700015;Hamburguesa Premium;4;8.3;33.2;Lun;33898;60.7;Chrome;Windows;other
+P000177;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33898;60.7;Chrome;Windows;other
+P000178;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33892;78.1;Chrome Mobile;Android;other
+P000178;110603500005;Nuggets Premium;1;6;6;Lun;33892;78.1;Chrome Mobile;Android;other
+P000178;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33892;78.1;Chrome Mobile;Android;other
+P000178;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33892;78.1;Chrome Mobile;Android;other
+P000178;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33892;78.1;Chrome Mobile;Android;other
+P000178;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33892;78.1;Chrome Mobile;Android;other
+P000178;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33892;78.1;Chrome Mobile;Android;other
+P000179;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33899;58;Chrome Mobile;Android;other
+P000179;110601000027;Pollo Entero S/M;1;16;16;Lun;33899;58;Chrome Mobile;Android;other
+P000179;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33899;58;Chrome Mobile;Android;other
+P000179;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33899;58;Chrome Mobile;Android;other
+P000180;110601000027;Pollo Entero S/M;4;16;64;Lun;33889;64;Chrome;Windows;other
+P000181;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33900;97;Firefox;Windows;other
+P000181;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33900;97;Firefox;Windows;other
+P000181;110601400016;Filete de Pechuga;1;30;30;Lun;33900;97;Firefox;Windows;other
+P000182;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33901;109.8;Chrome;Windows;other
+P000182;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33901;109.8;Chrome;Windows;other
+P000182;110601400016;Filete de Pechuga;2;30;60;Lun;33901;109.8;Chrome;Windows;other
+P000182;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33901;109.8;Chrome;Windows;other
+P000182;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33901;109.8;Chrome;Windows;other
+P000183;110601000027;Pollo Entero S/M;4;16;64;Lun;33889;64;Chrome;Windows;other
+P000184;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33906;75;Chrome;Mac OS X;other
+P000184;110601000027;Pollo Entero S/M;2;16;32;Lun;33906;75;Chrome;Mac OS X;other
+P000184;110601400016;Filete de Pechuga;1;30;30;Lun;33906;75;Chrome;Mac OS X;other
+P000185;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33908;96;Chrome Mobile;Android;LG
+P000185;110601000027;Pollo Entero S/M;1;16;16;Lun;33908;96;Chrome Mobile;Android;LG
+P000185;110601400016;Filete de Pechuga;1;30;30;Lun;33908;96;Chrome Mobile;Android;LG
+P000185;110603500005;Nuggets Premium;2;6;12;Lun;33908;96;Chrome Mobile;Android;LG
+P000185;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33908;96;Chrome Mobile;Android;LG
+P000186;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33909;66.8;Mobile Safari;iOS;iPhone
+P000186;110601000027;Pollo Entero S/M;1;16;16;Lun;33909;66.8;Mobile Safari;iOS;iPhone
+P000186;110601400016;Filete de Pechuga;1;30;30;Lun;33909;66.8;Mobile Safari;iOS;iPhone
+P000186;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33909;66.8;Mobile Safari;iOS;iPhone
+P000187;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33902;137.3;Safari;Mac OS X;other
+P000187;110601000027;Pollo Entero S/M;1;16;16;Lun;33902;137.3;Safari;Mac OS X;other
+P000187;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33902;137.3;Safari;Mac OS X;other
+P000187;110601400016;Filete de Pechuga;1;30;30;Lun;33902;137.3;Safari;Mac OS X;other
+P000187;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33902;137.3;Safari;Mac OS X;other
+P000187;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33902;137.3;Safari;Mac OS X;other
+P000187;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33902;137.3;Safari;Mac OS X;other
+P000188;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33912;126.5;Chrome;Windows;other
+P000188;110601000027;Pollo Entero S/M;1;16;16;Lun;33912;126.5;Chrome;Windows;other
+P000188;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33912;126.5;Chrome;Windows;other
+P000188;110603500005;Nuggets Premium;2;6;12;Lun;33912;126.5;Chrome;Windows;other
+P000188;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33912;126.5;Chrome;Windows;other
+P000189;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33913;103.2;Chrome;Windows;other
+P000189;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33913;103.2;Chrome;Windows;other
+P000189;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33913;103.2;Chrome;Windows;other
+P000189;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33913;103.2;Chrome;Windows;other
+P000189;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33913;103.2;Chrome;Windows;other
+P000190;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33914;113.6;Chrome;Windows;other
+P000190;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33914;113.6;Chrome;Windows;other
+P000190;110601400016;Filete de Pechuga;1;30;30;Lun;33914;113.6;Chrome;Windows;other
+P000190;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33914;113.6;Chrome;Windows;other
+P000191;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33905;61;Chrome Mobile;Android;other
+P000191;110601000027;Pollo Entero S/M;3;16;48;Lun;33905;61;Chrome Mobile;Android;other
+P000192;110501000031;Huevo Pardo Empacado;12;13;156;Lun;33916;1183.5;Safari;Mac OS X;other
+P000192;110601200009;Pierna Encuentro Fresca;10;54;540;Lun;33916;1183.5;Safari;Mac OS X;other
+P000192;110601400016;Filete de Pechuga;10;30;300;Lun;33916;1183.5;Safari;Mac OS X;other
+P000192;110603500029;Chicharron de Pechuga de Pollo;15;12.5;187.5;Lun;33916;1183.5;Safari;Mac OS X;other
+P000193;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33919;97;Chrome;Windows;other
+P000193;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33919;97;Chrome;Windows;other
+P000193;110601400016;Filete de Pechuga;1;30;30;Lun;33919;97;Chrome;Windows;other
+P000194;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33922;102.6;Firefox;Windows;other
+P000194;110601400016;Filete de Pechuga;2;30;60;Lun;33922;102.6;Firefox;Windows;other
+P000194;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33922;102.6;Firefox;Windows;other
+P000195;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33921;63;Chrome Mobile;Android;other
+P000195;110601400016;Filete de Pechuga;1;30;30;Lun;33921;63;Chrome Mobile;Android;other
+P000196;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33928;59.1;Chrome;Mac OS X;other
+P000196;110601400016;Filete de Pechuga;1;30;30;Lun;33928;59.1;Chrome;Mac OS X;other
+P000196;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33928;59.1;Chrome;Mac OS X;other
+P000196;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33928;59.1;Chrome;Mac OS X;other
+P000197;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33931;53.8;Chrome;Windows;other
+P000197;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33931;53.8;Chrome;Windows;other
+P000197;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33931;53.8;Chrome;Windows;other
+P000198;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33930;102.8;Facebook;iOS;iPhone
+P000198;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33930;102.8;Facebook;iOS;iPhone
+P000198;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33930;102.8;Facebook;iOS;iPhone
+P000198;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33930;102.8;Facebook;iOS;iPhone
+P000199;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33927;50.3;Mobile Safari;iOS;iPhone
+P000199;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33927;50.3;Mobile Safari;iOS;iPhone
+P000199;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33927;50.3;Mobile Safari;iOS;iPhone
+P000200;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33926;75.3;Safari;Mac OS X;other
+P000200;110601200016;Muslos Frescos;1;54;54;Lun;33926;75.3;Safari;Mac OS X;other
+P000200;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33926;75.3;Safari;Mac OS X;other
+P000201;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33933;58.5;Chrome;Mac OS X;other
+P000201;110601000027;Pollo Entero S/M;1;16;16;Lun;33933;58.5;Chrome;Mac OS X;other
+P000201;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33933;58.5;Chrome;Mac OS X;other
+P000202;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33934;108.5;Chrome Mobile;Android;other
+P000202;110601200006;Pollo trozado x 8 pzas S/M;5;16.5;82.5;Lun;33934;108.5;Chrome Mobile;Android;other
+P000203;110601000027;Pollo Entero S/M;1;16;16;Lun;33932;63.8;Mobile Safari;iOS;iPhone
+P000203;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33932;63.8;Mobile Safari;iOS;iPhone
+P000203;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33932;63.8;Mobile Safari;iOS;iPhone
+P000203;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33932;63.8;Mobile Safari;iOS;iPhone
+P000204;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33923;79.3;Chrome;Windows;other
+P000204;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33923;79.3;Chrome;Windows;other
+P000204;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33923;79.3;Chrome;Windows;other
+P000204;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33923;79.3;Chrome;Windows;other
+P000204;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33923;79.3;Chrome;Windows;other
+P000204;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33923;79.3;Chrome;Windows;other
+P000205;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33935;80.3;Chrome;Windows;other
+P000205;110601000027;Pollo Entero S/M;2;16;32;Lun;33935;80.3;Chrome;Windows;other
+P000205;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33935;80.3;Chrome;Windows;other
+P000205;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33935;80.3;Chrome;Windows;other
+P000205;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33935;80.3;Chrome;Windows;other
+P000206;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33937;132;Mobile Safari;iOS;iPhone
+P000206;110601200016;Muslos Frescos;1;54;54;Lun;33937;132;Mobile Safari;iOS;iPhone
+P000206;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33937;132;Mobile Safari;iOS;iPhone
+P000206;110603500049;Filete  a la Criolla;2;13.5;27;Lun;33937;132;Mobile Safari;iOS;iPhone
+P000207;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33936;135.6;Edge;Windows;other
+P000207;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33936;135.6;Edge;Windows;other
+P000207;110601400016;Filete de Pechuga;2;30;60;Lun;33936;135.6;Edge;Windows;other
+P000207;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33936;135.6;Edge;Windows;other
+P000208;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33940;70.5;Chrome;Windows;other
+P000208;110601400016;Filete de Pechuga;1;30;30;Lun;33940;70.5;Chrome;Windows;other
+P000208;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33940;70.5;Chrome;Windows;other
+P000209;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33939;116;Chrome;Windows;other
+P000209;110601400016;Filete de Pechuga;3;30;90;Lun;33939;116;Chrome;Windows;other
+P000210;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33938;90;Chrome;Windows;other
+P000210;110601400015;Filete de Pechuga Corazon;2;32;64;Lun;33938;90;Chrome;Windows;other
+P000211;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33941;69.9;Mobile Safari;iOS;iPhone
+P000211;110601000027;Pollo Entero S/M;2;16;32;Lun;33941;69.9;Mobile Safari;iOS;iPhone
+P000211;110603700015;Hamburguesa Premium;3;8.3;24.9;Lun;33941;69.9;Mobile Safari;iOS;iPhone
+P000212;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33904;68;Chrome;Windows;other
+P000212;110601400016;Filete de Pechuga;1;30;30;Lun;33904;68;Chrome;Windows;other
+P000212;110603500005;Nuggets Premium;2;6;12;Lun;33904;68;Chrome;Windows;other
+P000213;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33944;190.2;Mobile Safari;iOS;iPhone
+P000213;110601200009;Pierna Encuentro Fresca;2;54;108;Lun;33944;190.2;Mobile Safari;iOS;iPhone
+P000213;110601400016;Filete de Pechuga;1;30;30;Lun;33944;190.2;Mobile Safari;iOS;iPhone
+P000213;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33944;190.2;Mobile Safari;iOS;iPhone
+P000213;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33944;190.2;Mobile Safari;iOS;iPhone
+P000214;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33945;168.9;Samsung Internet;Android;Samsung
+P000214;110601400016;Filete de Pechuga;2;30;60;Lun;33945;168.9;Samsung Internet;Android;Samsung
+P000214;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33945;168.9;Samsung Internet;Android;Samsung
+P000214;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33945;168.9;Samsung Internet;Android;Samsung
+P000214;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33945;168.9;Samsung Internet;Android;Samsung
+P000214;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33945;168.9;Samsung Internet;Android;Samsung
+P000215;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33918;54.5;Chrome;Windows;other
+P000215;110601000027;Pollo Entero S/M;1;16;16;Lun;33918;54.5;Chrome;Windows;other
+P000215;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33918;54.5;Chrome;Windows;other
+P000216;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33947;216.3;Mobile Safari;iOS;iPad
+P000216;110601400015;Filete de Pechuga Corazon;3;32;96;Lun;33947;216.3;Mobile Safari;iOS;iPad
+P000216;110603500005;Nuggets Premium;4;6;24;Lun;33947;216.3;Mobile Safari;iOS;iPad
+P000216;110603500013;Nuggets con Quinua;3;8.2;24.6;Lun;33947;216.3;Mobile Safari;iOS;iPad
+P000216;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33947;216.3;Mobile Safari;iOS;iPad
+P000216;110603700015;Hamburguesa Premium;4;8.3;33.2;Lun;33947;216.3;Mobile Safari;iOS;iPad
+P000217;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33949;72.5;Chrome Mobile;Android;other
+P000217;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33949;72.5;Chrome Mobile;Android;other
+P000217;110601400016;Filete de Pechuga;1;30;30;Lun;33949;72.5;Chrome Mobile;Android;other
+P000218;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33950;101.5;Chrome;Windows;other
+P000218;110601400016;Filete de Pechuga;1;30;30;Lun;33950;101.5;Chrome;Windows;other
+P000218;110603500005;Nuggets Premium;3;6;18;Lun;33950;101.5;Chrome;Windows;other
+P000218;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33950;101.5;Chrome;Windows;other
+P000219;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33948;85.6;Chrome;Windows;other
+P000219;110601000027;Pollo Entero S/M;1;16;16;Lun;33948;85.6;Chrome;Windows;other
+P000219;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33948;85.6;Chrome;Windows;other
+P000219;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33948;85.6;Chrome;Windows;other
+P000220;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33942;51;Chrome;Mac OS X;other
+P000220;110601000027;Pollo Entero S/M;2;16;32;Lun;33942;51;Chrome;Mac OS X;other
+P000220;110603500005;Nuggets Premium;1;6;6;Lun;33942;51;Chrome;Mac OS X;other
+P000221;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33953;85;Chrome;Windows;other
+P000221;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33953;85;Chrome;Windows;other
+P000221;110601400016;Filete de Pechuga;1;30;30;Lun;33953;85;Chrome;Windows;other
+P000221;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33953;85;Chrome;Windows;other
+P000222;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33957;79.4;Mobile Safari;iOS;iPhone
+P000222;110601400016;Filete de Pechuga;1;30;30;Lun;33957;79.4;Mobile Safari;iOS;iPhone
+P000222;110603500005;Nuggets Premium;2;6;12;Lun;33957;79.4;Mobile Safari;iOS;iPhone
+P000222;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33957;79.4;Mobile Safari;iOS;iPhone
+P000222;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33957;79.4;Mobile Safari;iOS;iPhone
+P000223;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33954;62.5;Edge;Windows;other
+P000223;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33954;62.5;Edge;Windows;other
+P000224;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33958;92.3;Chrome Mobile iOS;iOS;iPhone
+P000224;110601400016;Filete de Pechuga;1;30;30;Lun;33958;92.3;Chrome Mobile iOS;iOS;iPhone
+P000224;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33958;92.3;Chrome Mobile iOS;iOS;iPhone
+P000225;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33959;53.8;Chrome;Windows;other
+P000225;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33959;53.8;Chrome;Windows;other
+P000225;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33959;53.8;Chrome;Windows;other
+P000226;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33961;50.7;Chrome Mobile;Android;other
+P000226;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33961;50.7;Chrome Mobile;Android;other
+P000226;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33961;50.7;Chrome Mobile;Android;other
+P000226;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33961;50.7;Chrome Mobile;Android;other
+P000227;110501000031;Huevo Pardo Empacado;3;13;39;Lun;33955;212.7;Chrome;Windows;other
+P000227;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33955;212.7;Chrome;Windows;other
+P000227;110601400016;Filete de Pechuga;1;30;30;Lun;33955;212.7;Chrome;Windows;other
+P000227;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33955;212.7;Chrome;Windows;other
+P000227;110603500048;Filete a la Pimienta;2;13.5;27;Lun;33955;212.7;Chrome;Windows;other
+P000227;110603500049;Filete  a la Criolla;2;13.5;27;Lun;33955;212.7;Chrome;Windows;other
+P000227;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33955;212.7;Chrome;Windows;other
+P000228;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33963;78.3;Chrome;Windows;other
+P000228;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33963;78.3;Chrome;Windows;other
+P000228;110603500048;Filete a la Pimienta;3;13.5;40.5;Lun;33963;78.3;Chrome;Windows;other
+P000228;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33963;78.3;Chrome;Windows;other
+P000229;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33967;90.1;Chrome;Windows;other
+P000229;110601000027;Pollo Entero S/M;3;16;48;Lun;33967;90.1;Chrome;Windows;other
+P000229;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33967;90.1;Chrome;Windows;other
+P000229;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33967;90.1;Chrome;Windows;other
+P000230;110601000027;Pollo Entero S/M;2;16;32;Lun;33965;52.3;Chrome;Windows;other
+P000230;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33965;52.3;Chrome;Windows;other
+P000230;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33965;52.3;Chrome;Windows;other
+P000231;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33966;101.6;Chrome;Windows;other
+P000231;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33966;101.6;Chrome;Windows;other
+P000231;110603500005;Nuggets Premium;1;6;6;Lun;33966;101.6;Chrome;Windows;other
+P000231;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33966;101.6;Chrome;Windows;other
+P000231;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33966;101.6;Chrome;Windows;other
+P000231;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33966;101.6;Chrome;Windows;other
+P000232;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33969;110.8;Chrome;Windows;other
+P000232;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33969;110.8;Chrome;Windows;other
+P000232;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33969;110.8;Chrome;Windows;other
+P000232;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33969;110.8;Chrome;Windows;other
+P000232;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33969;110.8;Chrome;Windows;other
+P000233;110501000031;Huevo Pardo Empacado;8;13;104;Lun;33798;116;Chrome;Android;HUAWEI
+P000233;110603500005;Nuggets Premium;2;6;12;Lun;33798;116;Chrome;Android;HUAWEI
+P000234;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33972;77.5;Chrome Mobile;Android;other
+P000234;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33972;77.5;Chrome Mobile;Android;other
+P000234;110603500005;Nuggets Premium;1;6;6;Lun;33972;77.5;Chrome Mobile;Android;other
+P000234;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33972;77.5;Chrome Mobile;Android;other
+P000234;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33972;77.5;Chrome Mobile;Android;other
+P000234;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33972;77.5;Chrome Mobile;Android;other
+P000235;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33973;82.8;Mobile Safari;iOS;iPad
+P000235;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33973;82.8;Mobile Safari;iOS;iPad
+P000235;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33973;82.8;Mobile Safari;iOS;iPad
+P000235;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33973;82.8;Mobile Safari;iOS;iPad
+P000236;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33975;121.3;Chrome;Windows;other
+P000236;110601200016;Muslos Frescos;1;54;54;Lun;33975;121.3;Chrome;Windows;other
+P000236;110601400016;Filete de Pechuga;1;30;30;Lun;33975;121.3;Chrome;Windows;other
+P000236;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33975;121.3;Chrome;Windows;other
+P000236;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33975;121.3;Chrome;Windows;other
+P000236;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33975;121.3;Chrome;Windows;other
+P000237;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33974;96.1;Chrome;Windows;other
+P000237;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33974;96.1;Chrome;Windows;other
+P000237;110603500029;Chicharron de Pechuga de Pollo;4;12.5;50;Lun;33974;96.1;Chrome;Windows;other
+P000237;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33974;96.1;Chrome;Windows;other
+P000238;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33978;103;Chrome;Windows;other
+P000238;110601000027;Pollo Entero S/M;3;16;48;Lun;33978;103;Chrome;Windows;other
+P000238;110601400016;Filete de Pechuga;1;30;30;Lun;33978;103;Chrome;Windows;other
+P000238;110603500005;Nuggets Premium;2;6;12;Lun;33978;103;Chrome;Windows;other
+P000239;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33976;143.6;Safari;Mac OS X;other
+P000239;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33976;143.6;Safari;Mac OS X;other
+P000239;110601400016;Filete de Pechuga;2;30;60;Lun;33976;143.6;Safari;Mac OS X;other
+P000239;110603500005;Nuggets Premium;2;6;12;Lun;33976;143.6;Safari;Mac OS X;other
+P000239;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33976;143.6;Safari;Mac OS X;other
+P000239;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33976;143.6;Safari;Mac OS X;other
+P000240;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33977;178.5;Edge;Windows;other
+P000240;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33977;178.5;Edge;Windows;other
+P000240;110601400016;Filete de Pechuga;2;30;60;Lun;33977;178.5;Edge;Windows;other
+P000240;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33977;178.5;Edge;Windows;other
+P000240;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33977;178.5;Edge;Windows;other
+P000240;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33977;178.5;Edge;Windows;other
+P000241;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33980;151.4;Samsung Internet;Android;Samsung
+P000241;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33980;151.4;Samsung Internet;Android;Samsung
+P000241;110603500019;Deditos de Pollo;4;7.8;31.2;Lun;33980;151.4;Samsung Internet;Android;Samsung
+P000241;110603700015;Hamburguesa Premium;4;8.3;33.2;Lun;33980;151.4;Samsung Internet;Android;Samsung
+P000242;110601400016;Filete de Pechuga;1;30;30;Lun;33979;54.8;Chrome;Windows;other
+P000242;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33979;54.8;Chrome;Windows;other
+P000242;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33979;54.8;Chrome;Windows;other
+P000243;110601400016;Filete de Pechuga;1;30;30;Lun;33983;54.3;Chrome;Windows;other
+P000243;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33983;54.3;Chrome;Windows;other
+P000243;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;33983;54.3;Chrome;Windows;other
+P000243;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33983;54.3;Chrome;Windows;other
+P000244;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33962;62.5;Chrome;Windows;other
+P000244;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;33962;62.5;Chrome;Windows;other
+P000245;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33981;61;Chrome;Mac OS X;other
+P000245;110601000027;Pollo Entero S/M;3;16;48;Lun;33981;61;Chrome;Mac OS X;other
+P000246;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33970;103.1;Chrome;Windows;other
+P000246;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33970;103.1;Chrome;Windows;other
+P000246;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33970;103.1;Chrome;Windows;other
+P000246;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33970;103.1;Chrome;Windows;other
+P000247;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33984;54.3;Chrome;Windows;other
+P000247;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33984;54.3;Chrome;Windows;other
+P000247;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33984;54.3;Chrome;Windows;other
+P000247;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33984;54.3;Chrome;Windows;other
+P000248;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33986;207.1;Chrome;Windows;other
+P000248;110601000027;Pollo Entero S/M;3;16;48;Lun;33986;207.1;Chrome;Windows;other
+P000248;110601400016;Filete de Pechuga;2;30;60;Lun;33986;207.1;Chrome;Windows;other
+P000248;110603500005;Nuggets Premium;3;6;18;Lun;33986;207.1;Chrome;Windows;other
+P000248;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33986;207.1;Chrome;Windows;other
+P000248;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33986;207.1;Chrome;Windows;other
+P000248;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;33986;207.1;Chrome;Windows;other
+P000249;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33987;61;Mobile Safari;iOS;iPhone
+P000249;110601000027;Pollo Entero S/M;3;16;48;Lun;33987;61;Mobile Safari;iOS;iPhone
+P000250;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33988;67;Mobile Safari;iOS;iPhone
+P000250;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33988;67;Mobile Safari;iOS;iPhone
+P000251;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33994;56;Safari;Mac OS X;other
+P000251;110601400016;Filete de Pechuga;1;30;30;Lun;33994;56;Safari;Mac OS X;other
+P000252;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33993;51.2;Chrome Mobile;Android;other
+P000252;110601400016;Filete de Pechuga;1;30;30;Lun;33993;51.2;Chrome Mobile;Android;other
+P000252;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;33993;51.2;Chrome Mobile;Android;other
+P000253;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33971;89.6;Safari;Mac OS X;other
+P000253;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33971;89.6;Safari;Mac OS X;other
+P000253;110603500005;Nuggets Premium;1;6;6;Lun;33971;89.6;Safari;Mac OS X;other
+P000253;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;33971;89.6;Safari;Mac OS X;other
+P000254;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33982;52;Chrome;Windows;other
+P000254;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;33982;52;Chrome;Windows;other
+P000254;110603500005;Nuggets Premium;1;6;6;Lun;33982;52;Chrome;Windows;other
+P000255;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33996;55;Mobile Safari;iOS;iPhone
+P000255;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;33996;55;Mobile Safari;iOS;iPhone
+P000255;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33996;55;Mobile Safari;iOS;iPhone
+P000256;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34003;62;Mobile Safari;iOS;iPhone
+P000256;110601400016;Filete de Pechuga;1;30;30;Lun;34003;62;Mobile Safari;iOS;iPhone
+P000257;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34004;50.3;Chrome Mobile;Android;other
+P000257;110601000027;Pollo Entero S/M;1;16;16;Lun;34004;50.3;Chrome Mobile;Android;other
+P000257;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34004;50.3;Chrome Mobile;Android;other
+P000258;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34006;61.8;Chrome;Mac OS X;other
+P000258;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34006;61.8;Chrome;Mac OS X;other
+P000258;110603700015;Hamburguesa Premium;4;8.3;33.2;Lun;34006;61.8;Chrome;Mac OS X;other
+P000259;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34008;125.7;Chrome;Mac OS X;other
+P000259;110601000027;Pollo Entero S/M;2;16;32;Lun;34008;125.7;Chrome;Mac OS X;other
+P000259;110601400016;Filete de Pechuga;2;30;60;Lun;34008;125.7;Chrome;Mac OS X;other
+P000259;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34008;125.7;Chrome;Mac OS X;other
+P000259;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34008;125.7;Chrome;Mac OS X;other
+P000260;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34010;50.7;Chrome;Windows;other
+P000260;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34010;50.7;Chrome;Windows;other
+P000260;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34010;50.7;Chrome;Windows;other
+P000261;110601200016;Muslos Frescos;1;54;54;Lun;34011;90;Chrome Mobile;Android;other
+P000261;110601400016;Filete de Pechuga;1;30;30;Lun;34011;90;Chrome Mobile;Android;other
+P000261;110603500005;Nuggets Premium;1;6;6;Lun;34011;90;Chrome Mobile;Android;other
+P000262;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34013;61.5;Facebook;Android;Samsung
+P000262;110601000027;Pollo Entero S/M;2;16;32;Lun;34013;61.5;Facebook;Android;Samsung
+P000262;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34013;61.5;Facebook;Android;Samsung
+P000262;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34013;61.5;Facebook;Android;Samsung
+P000263;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34014;75;Facebook;iOS;iPhone
+P000263;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34014;75;Facebook;iOS;iPhone
+P000263;110601400016;Filete de Pechuga;1;30;30;Lun;34014;75;Facebook;iOS;iPhone
+P000264;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34018;75;Chrome Mobile;Android;other
+P000264;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34018;75;Chrome Mobile;Android;other
+P000264;110601400016;Filete de Pechuga;1;30;30;Lun;34018;75;Chrome Mobile;Android;other
+P000265;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33992;150.4;Chrome;Windows;other
+P000265;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;33992;150.4;Chrome;Windows;other
+P000265;110601400016;Filete de Pechuga;1;30;30;Lun;33992;150.4;Chrome;Windows;other
+P000265;110603500005;Nuggets Premium;2;6;12;Lun;33992;150.4;Chrome;Windows;other
+P000265;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;33992;150.4;Chrome;Windows;other
+P000265;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;33992;150.4;Chrome;Windows;other
+P000265;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;33992;150.4;Chrome;Windows;other
+P000265;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;33992;150.4;Chrome;Windows;other
+P000265;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;33992;150.4;Chrome;Windows;other
+P000266;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34019;66;Samsung Internet;Android;Samsung
+P000267;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34020;54;Chrome;Windows;other
+P000268;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34017;62.5;Chrome;Windows;other
+P000268;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34017;62.5;Chrome;Windows;other
+P000269;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34023;62.4;Facebook;Android;other
+P000269;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34023;62.4;Facebook;Android;other
+P000269;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34023;62.4;Facebook;Android;other
+P000270;110501000031;Huevo Pardo Empacado;1;13;13;Lun;33855;168.4;Safari;Mac OS X;other
+P000270;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;33855;168.4;Safari;Mac OS X;other
+P000270;110601400016;Filete de Pechuga;2;30;60;Lun;33855;168.4;Safari;Mac OS X;other
+P000270;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;33855;168.4;Safari;Mac OS X;other
+P000270;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;33855;168.4;Safari;Mac OS X;other
+P000271;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34025;124.5;Chrome;Windows;other
+P000271;110601400016;Filete de Pechuga;2;30;60;Lun;34025;124.5;Chrome;Windows;other
+P000271;110603500005;Nuggets Premium;4;6;24;Lun;34025;124.5;Chrome;Windows;other
+P000271;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34025;124.5;Chrome;Windows;other
+P000272;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33873;86;Chrome;Windows;other
+P000272;110601000027;Pollo Entero S/M;3;16;48;Lun;33873;86;Chrome;Windows;other
+P000272;110603500005;Nuggets Premium;2;6;12;Lun;33873;86;Chrome;Windows;other
+P000273;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34028;92.7;Chrome;Windows;other
+P000273;110601000027;Pollo Entero S/M;1;16;16;Lun;34028;92.7;Chrome;Windows;other
+P000273;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34028;92.7;Chrome;Windows;other
+P000273;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34028;92.7;Chrome;Windows;other
+P000273;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34028;92.7;Chrome;Windows;other
+P000273;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34028;92.7;Chrome;Windows;other
+P000274;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34033;151.3;Mobile Safari;WKWebView;iOS
+P000274;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34033;151.3;Mobile Safari;WKWebView;iOS
+P000274;110601400015;Filete de Pechuga Corazon;2;32;64;Lun;34033;151.3;Mobile Safari;WKWebView;iOS
+P000274;110603500005;Nuggets Premium;2;6;12;Lun;34033;151.3;Mobile Safari;WKWebView;iOS
+P000274;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34033;151.3;Mobile Safari;WKWebView;iOS
+P000275;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34030;78;Mobile Safari;iOS;iPhone
+P000275;110601000027;Pollo Entero S/M;2;16;32;Lun;34030;78;Mobile Safari;iOS;iPhone
+P000275;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34030;78;Mobile Safari;iOS;iPhone
+P000275;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34030;78;Mobile Safari;iOS;iPhone
+P000276;110601400016;Filete de Pechuga;1;30;30;Lun;34032;57;Chrome Mobile;Android;other
+P000276;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34032;57;Chrome Mobile;Android;other
+P000277;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34027;55.5;Chrome Mobile;Android;XiaoMi
+P000277;110603500005;Nuggets Premium;1;6;6;Lun;34027;55.5;Chrome Mobile;Android;XiaoMi
+P000277;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34027;55.5;Chrome Mobile;Android;XiaoMi
+P000277;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34027;55.5;Chrome Mobile;Android;XiaoMi
+P000278;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34036;68.5;Chrome Mobile iOS;iOS;iPhone
+P000278;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34036;68.5;Chrome Mobile iOS;iOS;iPhone
+P000278;110603500005;Nuggets Premium;1;6;6;Lun;34036;68.5;Chrome Mobile iOS;iOS;iPhone
+P000279;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34037;54.1;Chrome Mobile;Android;other
+P000279;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34037;54.1;Chrome Mobile;Android;other
+P000279;110603500013;Nuggets con Quinua;3;8.2;24.6;Lun;34037;54.1;Chrome Mobile;Android;other
+P000280;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34039;58.5;Mobile Safari;iOS;iPhone
+P000280;110601000027;Pollo Entero S/M;1;16;16;Lun;34039;58.5;Mobile Safari;iOS;iPhone
+P000280;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34039;58.5;Mobile Safari;iOS;iPhone
+P000281;110601400016;Filete de Pechuga;1;30;30;Lun;34041;87;Chrome;Windows;other
+P000281;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34041;87;Chrome;Windows;other
+P000281;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34041;87;Chrome;Windows;other
+P000281;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34041;87;Chrome;Windows;other
+P000282;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34040;101.5;Chrome;Windows;other
+P000282;110601400016;Filete de Pechuga;2;30;60;Lun;34040;101.5;Chrome;Windows;other
+P000282;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34040;101.5;Chrome;Windows;other
+P000282;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34040;101.5;Chrome;Windows;other
+P000282;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34040;101.5;Chrome;Windows;other
+P000283;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34042;213.6;Mobile Safari;iOS;iPhone
+P000283;110601200016;Muslos Frescos;1;54;54;Lun;34042;213.6;Mobile Safari;iOS;iPhone
+P000283;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34042;213.6;Mobile Safari;iOS;iPhone
+P000283;110601400016;Filete de Pechuga;1;30;30;Lun;34042;213.6;Mobile Safari;iOS;iPhone
+P000283;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34042;213.6;Mobile Safari;iOS;iPhone
+P000283;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;34042;213.6;Mobile Safari;iOS;iPhone
+P000284;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34020;100.4;Chrome;Windows;other
+P000284;110601000027;Pollo Entero S/M;1;16;16;Lun;34020;100.4;Chrome;Windows;other
+P000284;110601400016;Filete de Pechuga;1;30;30;Lun;34020;100.4;Chrome;Windows;other
+P000284;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34020;100.4;Chrome;Windows;other
+P000284;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34020;100.4;Chrome;Windows;other
+P000285;110601400016;Filete de Pechuga;3;30;90;Lun;34045;90;Safari;Mac OS X;other
+P000286;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;34047;55;Chrome;Windows;other
+P000287;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34035;92.8;Chrome Mobile;Android;other
+P000287;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34035;92.8;Chrome Mobile;Android;other
+P000287;110601400016;Filete de Pechuga;1;30;30;Lun;34035;92.8;Chrome Mobile;Android;other
+P000287;110603500005;Nuggets Premium;2;6;12;Lun;34035;92.8;Chrome Mobile;Android;other
+P000287;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34035;92.8;Chrome Mobile;Android;other
+P000288;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34048;50;Chrome;Mac OS X;other
+P000288;110603500005;Nuggets Premium;4;6;24;Lun;34048;50;Chrome;Mac OS X;other
+P000289;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34049;56.3;Chrome;Windows;other
+P000289;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34049;56.3;Chrome;Windows;other
+P000289;110603500005;Nuggets Premium;1;6;6;Lun;34049;56.3;Chrome;Windows;other
+P000289;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34049;56.3;Chrome;Windows;other
+P000289;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34049;56.3;Chrome;Windows;other
+P000290;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34051;112.5;Chrome;Windows;other
+P000290;110601200016;Muslos Frescos;1;54;54;Lun;34051;112.5;Chrome;Windows;other
+P000290;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34051;112.5;Chrome;Windows;other
+P000290;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34051;112.5;Chrome;Windows;other
+P000291;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34055;101;Mobile Safari;iOS;iPhone
+P000291;110601400016;Filete de Pechuga;1;30;30;Lun;34055;101;Mobile Safari;iOS;iPhone
+P000291;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34055;101;Mobile Safari;iOS;iPhone
+P000291;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34055;101;Mobile Safari;iOS;iPhone
+P000292;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34057;53.7;Chrome Mobile;Android;LG
+P000292;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34057;53.7;Chrome Mobile;Android;LG
+P000292;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34057;53.7;Chrome Mobile;Android;LG
+P000293;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34058;132.8;Chrome;Windows;other
+P000293;110601000027;Pollo Entero S/M;1;16;16;Lun;34058;132.8;Chrome;Windows;other
+P000293;110601200016;Muslos Frescos;1;54;54;Lun;34058;132.8;Chrome;Windows;other
+P000293;110601400016;Filete de Pechuga;1;30;30;Lun;34058;132.8;Chrome;Windows;other
+P000293;110603500005;Nuggets Premium;2;6;12;Lun;34058;132.8;Chrome;Windows;other
+P000293;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34058;132.8;Chrome;Windows;other
+P000294;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34059;58;Chrome Mobile;Android;other
+P000294;110601000027;Pollo Entero S/M;2;16;32;Lun;34059;58;Chrome Mobile;Android;other
+P000295;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34054;137.1;Firefox;Windows;other
+P000295;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34054;137.1;Firefox;Windows;other
+P000295;110601400016;Filete de Pechuga;1;30;30;Lun;34054;137.1;Firefox;Windows;other
+P000295;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34054;137.1;Firefox;Windows;other
+P000295;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34054;137.1;Firefox;Windows;other
+P000295;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34054;137.1;Firefox;Windows;other
+P000295;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34054;137.1;Firefox;Windows;other
+P000296;110601000027;Pollo Entero S/M;4;16;64;Lun;34060;70;Chrome;Windows;other
+P000296;110603500005;Nuggets Premium;1;6;6;Lun;34060;70;Chrome;Windows;other
+P000297;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34061;56.8;Chrome;Windows;other
+P000297;110603500005;Nuggets Premium;1;6;6;Lun;34061;56.8;Chrome;Windows;other
+P000297;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34061;56.8;Chrome;Windows;other
+P000297;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34061;56.8;Chrome;Windows;other
+P000298;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34062;50;Mobile Safari;iOS;iPhone
+P000298;110603500005;Nuggets Premium;2;6;12;Lun;34062;50;Mobile Safari;iOS;iPhone
+P000298;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34062;50;Mobile Safari;iOS;iPhone
+P000299;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34064;54.3;Chrome Mobile;Android;other
+P000299;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34064;54.3;Chrome Mobile;Android;other
+P000299;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34064;54.3;Chrome Mobile;Android;other
+P000300;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34066;72.3;Mobile Safari;iOS;iPhone
+P000300;110601000027;Pollo Entero S/M;1;16;16;Lun;34066;72.3;Mobile Safari;iOS;iPhone
+P000300;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34066;72.3;Mobile Safari;iOS;iPhone
+P000300;110603500005;Nuggets Premium;1;6;6;Lun;34066;72.3;Mobile Safari;iOS;iPhone
+P000300;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34066;72.3;Mobile Safari;iOS;iPhone
+P000300;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34066;72.3;Mobile Safari;iOS;iPhone
+P000301;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34065;77.6;Chrome;Windows;other
+P000301;110601000027;Pollo Entero S/M;3;16;48;Lun;34065;77.6;Chrome;Windows;other
+P000301;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34065;77.6;Chrome;Windows;other
+P000302;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34067;90;Mobile Safari;iOS;iPhone
+P000302;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34067;90;Mobile Safari;iOS;iPhone
+P000302;110603500005;Nuggets Premium;2;6;12;Lun;34067;90;Mobile Safari;iOS;iPhone
+P000302;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34067;90;Mobile Safari;iOS;iPhone
+P000302;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34067;90;Mobile Safari;iOS;iPhone
+P000303;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34069;113.4;Chrome;Windows;other
+P000303;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34069;113.4;Chrome;Windows;other
+P000303;110603500005;Nuggets Premium;2;6;12;Lun;34069;113.4;Chrome;Windows;other
+P000303;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34069;113.4;Chrome;Windows;other
+P000303;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34069;113.4;Chrome;Windows;other
+P000303;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34069;113.4;Chrome;Windows;other
+P000304;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34070;100;Chrome;Windows;other
+P000304;110601000027;Pollo Entero S/M;2;16;32;Lun;34070;100;Chrome;Windows;other
+P000304;110601400016;Filete de Pechuga;1;30;30;Lun;34070;100;Chrome;Windows;other
+P000304;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34070;100;Chrome;Windows;other
+P000305;110601000027;Pollo Entero S/M;2;16;32;Lun;34071;54.5;Mobile Safari;iOS;iPhone
+P000305;110603500005;Nuggets Premium;1;6;6;Lun;34071;54.5;Mobile Safari;iOS;iPhone
+P000305;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34071;54.5;Mobile Safari;iOS;iPhone
+P000305;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34071;54.5;Mobile Safari;iOS;iPhone
+P000306;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34074;112;Facebook;iOS;iPhone
+P000306;110601000027;Pollo Entero S/M;2;16;32;Lun;34074;112;Facebook;iOS;iPhone
+P000306;110601200016;Muslos Frescos;1;54;54;Lun;34074;112;Facebook;iOS;iPhone
+P000307;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34072;125;Mobile Safari;iOS;iPhone
+P000307;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34072;125;Mobile Safari;iOS;iPhone
+P000307;110601400016;Filete de Pechuga;2;30;60;Lun;34072;125;Mobile Safari;iOS;iPhone
+P000307;110603500005;Nuggets Premium;1;6;6;Lun;34072;125;Mobile Safari;iOS;iPhone
+P000308;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34079;84.6;Samsung Internet;Android;Samsung
+P000308;110601400016;Filete de Pechuga;1;30;30;Lun;34079;84.6;Samsung Internet;Android;Samsung
+P000308;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34079;84.6;Samsung Internet;Android;Samsung
+P000308;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34079;84.6;Samsung Internet;Android;Samsung
+P000309;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34075;51;Chrome Mobile;Android;other
+P000309;110601000027;Pollo Entero S/M;2;16;32;Lun;34075;51;Chrome Mobile;Android;other
+P000309;110603500005;Nuggets Premium;1;6;6;Lun;34075;51;Chrome Mobile;Android;other
+P000310;110601400015;Filete de Pechuga Corazon;3;32;96;Lun;34082;180.5;Chrome Mobile;Android;other
+P000310;110601400016;Filete de Pechuga;1;30;30;Lun;34082;180.5;Chrome Mobile;Android;other
+P000310;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34082;180.5;Chrome Mobile;Android;other
+P000310;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34082;180.5;Chrome Mobile;Android;other
+P000311;110601400016;Filete de Pechuga;1;30;30;Lun;34084;50.7;Chrome;Windows;other
+P000311;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34084;50.7;Chrome;Windows;other
+P000311;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34084;50.7;Chrome;Windows;other
+P000312;110501000031;Huevo Pardo Empacado;5;13;65;Lun;34088;65;Chrome Mobile iOS;iOS;iPhone
+P000313;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34085;81.4;Chrome Mobile;Android;other
+P000313;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34085;81.4;Chrome Mobile;Android;other
+P000313;110603500005;Nuggets Premium;1;6;6;Lun;34085;81.4;Chrome Mobile;Android;other
+P000313;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34085;81.4;Chrome Mobile;Android;other
+P000314;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34083;211;Edge;Windows;other
+P000314;110601000027;Pollo Entero S/M;4;16;64;Lun;34083;211;Edge;Windows;other
+P000314;110601400016;Filete de Pechuga;1;30;30;Lun;34083;211;Edge;Windows;other
+P000314;110603500005;Nuggets Premium;2;6;12;Lun;34083;211;Edge;Windows;other
+P000314;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34083;211;Edge;Windows;other
+P000314;110603500048;Filete a la Pimienta;3;13.5;40.5;Lun;34083;211;Edge;Windows;other
+P000314;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34083;211;Edge;Windows;other
+P000315;110601000027;Pollo Entero S/M;3;16;48;Lun;34087;103;Chrome Mobile;Android;other
+P000315;110601400016;Filete de Pechuga;1;30;30;Lun;34087;103;Chrome Mobile;Android;other
+P000315;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34087;103;Chrome Mobile;Android;other
+P000316;110601400016;Filete de Pechuga;1;30;30;Lun;34091;50.7;Chrome;Windows;other
+P000316;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34091;50.7;Chrome;Windows;other
+P000316;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34091;50.7;Chrome;Windows;other
+P000317;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34094;50.2;Chrome;Windows;other
+P000317;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34094;50.2;Chrome;Windows;other
+P000317;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34094;50.2;Chrome;Windows;other
+P000317;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34094;50.2;Chrome;Windows;other
+P000318;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34095;50.8;Chrome;Windows;other
+P000318;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34095;50.8;Chrome;Windows;other
+P000318;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34095;50.8;Chrome;Windows;other
+P000319;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34098;55.4;Chrome Mobile iOS;iOS;iPhone
+P000319;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34098;55.4;Chrome Mobile iOS;iOS;iPhone
+P000320;110601000027;Pollo Entero S/M;1;16;16;Lun;34097;64.5;Chrome Mobile;Android;other
+P000320;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34097;64.5;Chrome Mobile;Android;other
+P000320;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34097;64.5;Chrome Mobile;Android;other
+P000321;110601000027;Pollo Entero S/M;2;16;32;Lun;34080;65;Chrome;Windows;other
+P000321;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34080;65;Chrome;Windows;other
+P000322;110603500005;Nuggets Premium;2;6;12;Lun;34100;62.3;Chrome Mobile;Android;other
+P000322;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34100;62.3;Chrome Mobile;Android;other
+P000322;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34100;62.3;Chrome Mobile;Android;other
+P000322;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34100;62.3;Chrome Mobile;Android;other
+P000322;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34100;62.3;Chrome Mobile;Android;other
+P000322;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34100;62.3;Chrome Mobile;Android;other
+P000323;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34101;73;Chrome;Windows;other
+P000323;110601400016;Filete de Pechuga;2;30;60;Lun;34101;73;Chrome;Windows;other
+P000324;110601000027;Pollo Entero S/M;1;16;16;Lun;34103;173.9;Chrome;Windows;other
+P000324;110601200016;Muslos Frescos;1;54;54;Lun;34103;173.9;Chrome;Windows;other
+P000324;110601400016;Filete de Pechuga;2;30;60;Lun;34103;173.9;Chrome;Windows;other
+P000324;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34103;173.9;Chrome;Windows;other
+P000324;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34103;173.9;Chrome;Windows;other
+P000325;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34105;65.2;Chrome;Windows;other
+P000325;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34105;65.2;Chrome;Windows;other
+P000325;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34105;65.2;Chrome;Windows;other
+P000325;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34105;65.2;Chrome;Windows;other
+P000326;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34108;58.8;Mobile Safari;iOS;iPhone
+P000326;110601000027;Pollo Entero S/M;2;16;32;Lun;34108;58.8;Mobile Safari;iOS;iPhone
+P000326;110603500005;Nuggets Premium;1;6;6;Lun;34108;58.8;Mobile Safari;iOS;iPhone
+P000326;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34108;58.8;Mobile Safari;iOS;iPhone
+P000327;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34109;145.8;Chrome;Windows;other
+P000327;110601400016;Filete de Pechuga;1;30;30;Lun;34109;145.8;Chrome;Windows;other
+P000327;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34109;145.8;Chrome;Windows;other
+P000327;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34109;145.8;Chrome;Windows;other
+P000327;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34109;145.8;Chrome;Windows;other
+P000327;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34109;145.8;Chrome;Windows;other
+P000328;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34104;61;Chrome;Windows;other
+P000328;110601000027;Pollo Entero S/M;3;16;48;Lun;34104;61;Chrome;Windows;other
+P000329;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34111;82.3;Chrome;Windows;other
+P000329;110601000027;Pollo Entero S/M;3;16;48;Lun;34111;82.3;Chrome;Windows;other
+P000329;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34111;82.3;Chrome;Windows;other
+P000330;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34114;125.8;Chrome;Windows;other
+P000330;110601000027;Pollo Entero S/M;1;16;16;Lun;34114;125.8;Chrome;Windows;other
+P000330;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34114;125.8;Chrome;Windows;other
+P000330;110601400016;Filete de Pechuga;1;30;30;Lun;34114;125.8;Chrome;Windows;other
+P000330;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34114;125.8;Chrome;Windows;other
+P000330;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34114;125.8;Chrome;Windows;other
+P000331;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34118;122.1;Mobile Safari;iOS;iPad
+P000331;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34118;122.1;Mobile Safari;iOS;iPad
+P000331;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34118;122.1;Mobile Safari;iOS;iPad
+P000331;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34118;122.1;Mobile Safari;iOS;iPad
+P000332;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34122;146.5;Mobile Safari;iOS;iPhone
+P000332;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34122;146.5;Mobile Safari;iOS;iPhone
+P000332;110601200016;Muslos Frescos;1;54;54;Lun;34122;146.5;Mobile Safari;iOS;iPhone
+P000332;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34122;146.5;Mobile Safari;iOS;iPhone
+P000333;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34117;50.8;Safari;Mac OS X;other
+P000333;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34117;50.8;Safari;Mac OS X;other
+P000333;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34117;50.8;Safari;Mac OS X;other
+P000334;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34124;63.6;Mobile Safari;iOS;iPhone
+P000334;110601000027;Pollo Entero S/M;1;16;16;Lun;34124;63.6;Mobile Safari;iOS;iPhone
+P000334;110603500005;Nuggets Premium;1;6;6;Lun;34124;63.6;Mobile Safari;iOS;iPhone
+P000334;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34124;63.6;Mobile Safari;iOS;iPhone
+P000334;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34124;63.6;Mobile Safari;iOS;iPhone
+P000334;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34124;63.6;Mobile Safari;iOS;iPhone
+P000335;110601400016;Filete de Pechuga;2;30;60;Lun;34120;73.5;Mobile Safari;iOS;iPhone
+P000335;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34120;73.5;Mobile Safari;iOS;iPhone
+P000336;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34126;159.5;Chrome Mobile iOS;iOS;iPhone
+P000336;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34126;159.5;Chrome Mobile iOS;iOS;iPhone
+P000336;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34126;159.5;Chrome Mobile iOS;iOS;iPhone
+P000336;110601400016;Filete de Pechuga;1;30;30;Lun;34126;159.5;Chrome Mobile iOS;iOS;iPhone
+P000336;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34126;159.5;Chrome Mobile iOS;iOS;iPhone
+P000336;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34126;159.5;Chrome Mobile iOS;iOS;iPhone
+P000337;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34130;84;Mobile Safari;iOS;iPhone
+P000337;110601400016;Filete de Pechuga;1;30;30;Lun;34130;84;Mobile Safari;iOS;iPhone
+P000338;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34131;66.4;Chrome Mobile;Android;other
+P000338;110601000027;Pollo Entero S/M;1;16;16;Lun;34131;66.4;Chrome Mobile;Android;other
+P000338;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34131;66.4;Chrome Mobile;Android;other
+P000338;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34131;66.4;Chrome Mobile;Android;other
+P000338;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34131;66.4;Chrome Mobile;Android;other
+P000339;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34115;58;Chrome;Windows;other
+P000339;110601000027;Pollo Entero S/M;1;16;16;Lun;34115;58;Chrome;Windows;other
+P000339;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34115;58;Chrome;Windows;other
+P000339;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34115;58;Chrome;Windows;other
+P000340;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34132;109;Chrome Mobile iOS;iOS;iPhone
+P000340;110601200016;Muslos Frescos;1;54;54;Lun;34132;109;Chrome Mobile iOS;iOS;iPhone
+P000340;110601400016;Filete de Pechuga;1;30;30;Lun;34132;109;Chrome Mobile iOS;iOS;iPhone
+P000340;110603500005;Nuggets Premium;2;6;12;Lun;34132;109;Chrome Mobile iOS;iOS;iPhone
+P000341;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34146;60.8;Mobile Safari;iOS;iPhone
+P000341;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34146;60.8;Mobile Safari;iOS;iPhone
+P000341;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34146;60.8;Mobile Safari;iOS;iPhone
+P000341;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34146;60.8;Mobile Safari;iOS;iPhone
+P000341;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34146;60.8;Mobile Safari;iOS;iPhone
+P000342;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34133;89.5;Samsung Internet;Android;Samsung
+P000342;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34133;89.5;Samsung Internet;Android;Samsung
+P000342;110601200016;Muslos Frescos;1;54;54;Lun;34133;89.5;Samsung Internet;Android;Samsung
+P000342;110603500005;Nuggets Premium;1;6;6;Lun;34133;89.5;Samsung Internet;Android;Samsung
+P000343;110501000031;Huevo Pardo Empacado;5;13;65;Lun;34142;95.7;Chrome Mobile;Android;other
+P000343;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34142;95.7;Chrome Mobile;Android;other
+P000343;110603500005;Nuggets Premium;1;6;6;Lun;34142;95.7;Chrome Mobile;Android;other
+P000343;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34142;95.7;Chrome Mobile;Android;other
+P000344;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34147;118;Chrome;Windows;other
+P000344;110601000027;Pollo Entero S/M;2;16;32;Lun;34147;118;Chrome;Windows;other
+P000344;110601400016;Filete de Pechuga;2;30;60;Lun;34147;118;Chrome;Windows;other
+P000345;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34138;67;Chrome Mobile;Android;other
+P000345;110601200016;Muslos Frescos;1;54;54;Lun;34138;67;Chrome Mobile;Android;other
+P000346;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34154;106.1;Chrome;Windows;other
+P000346;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34154;106.1;Chrome;Windows;other
+P000346;110601400016;Filete de Pechuga;2;30;60;Lun;34154;106.1;Chrome;Windows;other
+P000346;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34154;106.1;Chrome;Windows;other
+P000347;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34153;59;Chrome;Windows;other
+P000347;110601000027;Pollo Entero S/M;1;16;16;Lun;34153;59;Chrome;Windows;other
+P000347;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34153;59;Chrome;Windows;other
+P000347;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34153;59;Chrome;Windows;other
+P000348;110601000027;Pollo Entero S/M;1;16;16;Lun;34155;54.3;Chrome;Windows;other
+P000348;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34155;54.3;Chrome;Windows;other
+P000348;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34155;54.3;Chrome;Windows;other
+P000348;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34155;54.3;Chrome;Windows;other
+P000349;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34157;53.3;Mobile Safari;iOS;iPhone
+P000349;110601000027;Pollo Entero S/M;2;16;32;Lun;34157;53.3;Mobile Safari;iOS;iPhone
+P000349;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34157;53.3;Mobile Safari;iOS;iPhone
+P000350;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34089;97;Chrome;Windows;other
+P000350;110601000027;Pollo Entero S/M;1;16;16;Lun;34089;97;Chrome;Windows;other
+P000350;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;34089;97;Chrome;Windows;other
+P000351;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34128;53.7;Chrome Mobile;Android;other
+P000351;110601000027;Pollo Entero S/M;1;16;16;Lun;34128;53.7;Chrome Mobile;Android;other
+P000351;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34128;53.7;Chrome Mobile;Android;other
+P000351;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34128;53.7;Chrome Mobile;Android;other
+P000352;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34160;65.1;Mobile Safari;iOS;iPhone
+P000352;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34160;65.1;Mobile Safari;iOS;iPhone
+P000353;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34144;123;Mobile Safari;iOS;iPhone
+P000353;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34144;123;Mobile Safari;iOS;iPhone
+P000353;110601400016;Filete de Pechuga;1;30;30;Lun;34144;123;Mobile Safari;iOS;iPhone
+P000354;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34161;59.8;Chrome Mobile;Android;other
+P000354;110603500005;Nuggets Premium;1;6;6;Lun;34161;59.8;Chrome Mobile;Android;other
+P000354;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34161;59.8;Chrome Mobile;Android;other
+P000354;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34161;59.8;Chrome Mobile;Android;other
+P000354;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34161;59.8;Chrome Mobile;Android;other
+P000355;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34165;62.1;Facebook;iOS;iPhone
+P000355;110603500005;Nuggets Premium;1;6;6;Lun;34165;62.1;Facebook;iOS;iPhone
+P000355;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34165;62.1;Facebook;iOS;iPhone
+P000355;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34165;62.1;Facebook;iOS;iPhone
+P000356;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34167;75;Mobile Safari;iOS;iPhone
+P000356;110601400016;Filete de Pechuga;1;30;30;Lun;34167;75;Mobile Safari;iOS;iPhone
+P000356;110603500005;Nuggets Premium;1;6;6;Lun;34167;75;Mobile Safari;iOS;iPhone
+P000356;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34167;75;Mobile Safari;iOS;iPhone
+P000356;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34167;75;Mobile Safari;iOS;iPhone
+P000357;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34141;52;Mobile Safari;iOS;iPad
+P000357;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34141;52;Mobile Safari;iOS;iPad
+P000357;110603500005;Nuggets Premium;1;6;6;Lun;34141;52;Mobile Safari;iOS;iPad
+P000358;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34164;61.6;Chrome Mobile;Android;other
+P000358;110601000027;Pollo Entero S/M;2;16;32;Lun;34164;61.6;Chrome Mobile;Android;other
+P000358;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34164;61.6;Chrome Mobile;Android;other
+P000359;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34136;57.3;Chrome;Windows;other
+P000359;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34136;57.3;Chrome;Windows;other
+P000360;110601400016;Filete de Pechuga;1;30;30;Lun;34173;60;Mobile Safari;iOS;iPhone
+P000360;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34173;60;Mobile Safari;iOS;iPhone
+P000360;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34173;60;Mobile Safari;iOS;iPhone
+P000360;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34173;60;Mobile Safari;iOS;iPhone
+P000361;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34175;184.1;Chrome Mobile;Android;other
+P000361;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34175;184.1;Chrome Mobile;Android;other
+P000361;110601200009;Pierna Encuentro Fresca;2;54;108;Lun;34175;184.1;Chrome Mobile;Android;other
+P000361;110601400016;Filete de Pechuga;1;30;30;Lun;34175;184.1;Chrome Mobile;Android;other
+P000361;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34175;184.1;Chrome Mobile;Android;other
+P000362;110601000027;Pollo Entero S/M;2;16;32;Lun;34171;96.7;Safari;Mac OS X;other
+P000362;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34171;96.7;Safari;Mac OS X;other
+P000362;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34171;96.7;Safari;Mac OS X;other
+P000362;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34171;96.7;Safari;Mac OS X;other
+P000362;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34171;96.7;Safari;Mac OS X;other
+P000363;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34170;61.5;Chrome;Windows;other
+P000363;110601400016;Filete de Pechuga;1;30;30;Lun;34170;61.5;Chrome;Windows;other
+P000363;110603500005;Nuggets Premium;1;6;6;Lun;34170;61.5;Chrome;Windows;other
+P000363;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34170;61.5;Chrome;Windows;other
+P000364;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34156;79.5;Chrome;Windows;other
+P000364;110601400016;Filete de Pechuga;1;30;30;Lun;34156;79.5;Chrome;Windows;other
+P000365;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34166;88.5;Chrome;Windows;other
+P000365;110601000027;Pollo Entero S/M;1;16;16;Lun;34166;88.5;Chrome;Windows;other
+P000365;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34166;88.5;Chrome;Windows;other
+P000365;110601400016;Filete de Pechuga;1;30;30;Lun;34166;88.5;Chrome;Windows;other
+P000366;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34127;76.1;Chrome;Windows;other
+P000366;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34127;76.1;Chrome;Windows;other
+P000366;110601400016;Filete de Pechuga;1;30;30;Lun;34127;76.1;Chrome;Windows;other
+P000366;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34127;76.1;Chrome;Windows;other
+P000367;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34179;88.6;Mobile Safari;iOS;iPhone
+P000367;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34179;88.6;Mobile Safari;iOS;iPhone
+P000367;110601400016;Filete de Pechuga;1;30;30;Lun;34179;88.6;Mobile Safari;iOS;iPhone
+P000367;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34179;88.6;Mobile Safari;iOS;iPhone
+P000367;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34179;88.6;Mobile Safari;iOS;iPhone
+P000368;110601400016;Filete de Pechuga;2;30;60;Lun;34178;85;Chrome;Windows;other
+P000368;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34178;85;Chrome;Windows;other
+P000369;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34180;93;Chrome;Windows;other
+P000369;110601000027;Pollo Entero S/M;5;16;80;Lun;34180;93;Chrome;Windows;other
+P000370;110601000027;Pollo Entero S/M;1;16;16;Lun;34184;136.3;Chrome;Windows;other
+P000370;110601400016;Filete de Pechuga;1;30;30;Lun;34184;136.3;Chrome;Windows;other
+P000370;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34184;136.3;Chrome;Windows;other
+P000370;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34184;136.3;Chrome;Windows;other
+P000370;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;34184;136.3;Chrome;Windows;other
+P000371;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34121;78.9;Chrome;Windows;other
+P000371;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34121;78.9;Chrome;Windows;other
+P000371;110603500005;Nuggets Premium;2;6;12;Lun;34121;78.9;Chrome;Windows;other
+P000371;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34121;78.9;Chrome;Windows;other
+P000371;110603700015;Hamburguesa Premium;3;8.3;24.9;Lun;34121;78.9;Chrome;Windows;other
+P000372;110601400016;Filete de Pechuga;3;30;90;Lun;34186;129;Mobile Safari;iOS;iPhone
+P000372;110603500019;Deditos de Pollo;5;7.8;39;Lun;34186;129;Mobile Safari;iOS;iPhone
+P000373;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34188;131;Edge;Windows;other
+P000373;110601000027;Pollo Entero S/M;2;16;32;Lun;34188;131;Edge;Windows;other
+P000373;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34188;131;Edge;Windows;other
+P000373;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34188;131;Edge;Windows;other
+P000374;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34191;143.5;Chrome;Windows;other
+P000374;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34191;143.5;Chrome;Windows;other
+P000374;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34191;143.5;Chrome;Windows;other
+P000374;110601400016;Filete de Pechuga;1;30;30;Lun;34191;143.5;Chrome;Windows;other
+P000374;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34191;143.5;Chrome;Windows;other
+P000375;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34189;57.5;Chrome;Windows;other
+P000375;110601000027;Pollo Entero S/M;2;16;32;Lun;34189;57.5;Chrome;Windows;other
+P000375;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34189;57.5;Chrome;Windows;other
+P000376;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34183;73;Mobile Safari;iOS;iPhone
+P000376;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34183;73;Mobile Safari;iOS;iPhone
+P000376;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34183;73;Mobile Safari;iOS;iPhone
+P000377;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34183;72.5;Mobile Safari;iOS;iPhone
+P000377;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34183;72.5;Mobile Safari;iOS;iPhone
+P000377;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34183;72.5;Mobile Safari;iOS;iPhone
+P000378;110601400016;Filete de Pechuga;1;30;30;Lun;34187;52.4;Chrome;Windows;other
+P000378;110603500005;Nuggets Premium;1;6;6;Lun;34187;52.4;Chrome;Windows;other
+P000378;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34187;52.4;Chrome;Windows;other
+P000379;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34192;80.8;Chrome;Windows;other
+P000379;110601000027;Pollo Entero S/M;1;16;16;Lun;34192;80.8;Chrome;Windows;other
+P000379;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34192;80.8;Chrome;Windows;other
+P000379;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34192;80.8;Chrome;Windows;other
+P000379;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34192;80.8;Chrome;Windows;other
+P000380;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34202;81.8;Facebook;Android;Samsung
+P000380;110601000027;Pollo Entero S/M;2;16;32;Lun;34202;81.8;Facebook;Android;Samsung
+P000380;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34202;81.8;Facebook;Android;Samsung
+P000380;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34202;81.8;Facebook;Android;Samsung
+P000381;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34205;56;Chrome Mobile;Android;other
+P000381;110601400016;Filete de Pechuga;1;30;30;Lun;34205;56;Chrome Mobile;Android;other
+P000382;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34200;61.6;Mobile Safari;WKWebView;iOS
+P000382;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34200;61.6;Mobile Safari;WKWebView;iOS
+P000382;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34200;61.6;Mobile Safari;WKWebView;iOS
+P000383;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34188;115;Edge;Windows;other
+P000383;110601000027;Pollo Entero S/M;1;16;16;Lun;34188;115;Edge;Windows;other
+P000383;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34188;115;Edge;Windows;other
+P000383;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34188;115;Edge;Windows;other
+P000384;110601000027;Pollo Entero S/M;3;16;48;Lun;34201;56.3;Chrome Mobile;Android;other
+P000384;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34201;56.3;Chrome Mobile;Android;other
+P000385;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34194;105.6;Chrome Mobile;Android;other
+P000385;110601000027;Pollo Entero S/M;1;16;16;Lun;34194;105.6;Chrome Mobile;Android;other
+P000385;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34194;105.6;Chrome Mobile;Android;other
+P000385;110601400016;Filete de Pechuga;1;30;30;Lun;34194;105.6;Chrome Mobile;Android;other
+P000385;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34194;105.6;Chrome Mobile;Android;other
+P000385;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34194;105.6;Chrome Mobile;Android;other
+P000386;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34206;166.1;Chrome;Windows;other
+P000386;110601000027;Pollo Entero S/M;1;16;16;Lun;34206;166.1;Chrome;Windows;other
+P000386;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34206;166.1;Chrome;Windows;other
+P000386;110601400016;Filete de Pechuga;2;30;60;Lun;34206;166.1;Chrome;Windows;other
+P000386;110603500005;Nuggets Premium;2;6;12;Lun;34206;166.1;Chrome;Windows;other
+P000386;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34206;166.1;Chrome;Windows;other
+P000387;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34207;53.3;Mobile Safari;WKWebView;iOS
+P000387;110601000027;Pollo Entero S/M;2;16;32;Lun;34207;53.3;Mobile Safari;WKWebView;iOS
+P000387;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34207;53.3;Mobile Safari;WKWebView;iOS
+P000388;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34208;88;Firefox;Mac OS X;other
+P000388;110601000027;Pollo Entero S/M;2;16;32;Lun;34208;88;Firefox;Mac OS X;other
+P000388;110601400016;Filete de Pechuga;1;30;30;Lun;34208;88;Firefox;Mac OS X;other
+P000389;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34177;67.8;Chrome;Windows;other
+P000389;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34177;67.8;Chrome;Windows;other
+P000389;110601400016;Filete de Pechuga;1;30;30;Lun;34177;67.8;Chrome;Windows;other
+P000389;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34177;67.8;Chrome;Windows;other
+P000390;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34224;86;Mobile Safari;WKWebView;iOS
+P000390;110601400016;Filete de Pechuga;2;30;60;Lun;34224;86;Mobile Safari;WKWebView;iOS
+P000391;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34219;55.5;Facebook;Android;Samsung
+P000391;110603500005;Nuggets Premium;1;6;6;Lun;34219;55.5;Facebook;Android;Samsung
+P000392;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34212;60;Facebook;Android;other
+P000392;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34212;60;Facebook;Android;other
+P000393;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34231;80.1;Chrome;Mac OS X;other
+P000393;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34231;80.1;Chrome;Mac OS X;other
+P000393;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34231;80.1;Chrome;Mac OS X;other
+P000393;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34231;80.1;Chrome;Mac OS X;other
+P000394;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34195;51.5;Chrome Mobile;Android;other
+P000394;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34195;51.5;Chrome Mobile;Android;other
+P000394;110603500005;Nuggets Premium;1;6;6;Lun;34195;51.5;Chrome Mobile;Android;other
+P000394;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34195;51.5;Chrome Mobile;Android;other
+P000394;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34195;51.5;Chrome Mobile;Android;other
+P000395;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34221;91.8;Mobile Safari;iOS;iPhone
+P000395;110601400016;Filete de Pechuga;1;30;30;Lun;34221;91.8;Mobile Safari;iOS;iPhone
+P000395;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34221;91.8;Mobile Safari;iOS;iPhone
+P000396;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34209;76;Mobile Safari;WKWebView;iOS
+P000396;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34209;76;Mobile Safari;WKWebView;iOS
+P000396;110601400016;Filete de Pechuga;1;30;30;Lun;34209;76;Mobile Safari;WKWebView;iOS
+P000397;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34230;116.3;Chrome;Windows;other
+P000397;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34230;116.3;Chrome;Windows;other
+P000397;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34230;116.3;Chrome;Windows;other
+P000397;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34230;116.3;Chrome;Windows;other
+P000397;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34230;116.3;Chrome;Windows;other
+P000398;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34217;124.5;Chrome Mobile;Android;other
+P000398;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34217;124.5;Chrome Mobile;Android;other
+P000398;110601400016;Filete de Pechuga;1;30;30;Lun;34217;124.5;Chrome Mobile;Android;other
+P000398;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34217;124.5;Chrome Mobile;Android;other
+P000399;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34181;194;Facebook;Android;Samsung
+P000399;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34181;194;Facebook;Android;Samsung
+P000399;110601400016;Filete de Pechuga;1;30;30;Lun;34181;194;Facebook;Android;Samsung
+P000399;110603500019;Deditos de Pollo;3;7.8;23.4;Lun;34181;194;Facebook;Android;Samsung
+P000399;110603500029;Chicharron de Pechuga de Pollo;3;12.5;37.5;Lun;34181;194;Facebook;Android;Samsung
+P000399;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34181;194;Facebook;Android;Samsung
+P000399;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34181;194;Facebook;Android;Samsung
+P000399;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34181;194;Facebook;Android;Samsung
+P000400;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34237;61.6;Mobile Safari;WKWebView;iOS
+P000400;110601000027;Pollo Entero S/M;2;16;32;Lun;34237;61.6;Mobile Safari;WKWebView;iOS
+P000400;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34237;61.6;Mobile Safari;WKWebView;iOS
+P000401;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34225;52.5;Mobile Safari;WKWebView;iOS
+P000401;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34225;52.5;Mobile Safari;WKWebView;iOS
+P000401;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34225;52.5;Mobile Safari;WKWebView;iOS
+P000401;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34225;52.5;Mobile Safari;WKWebView;iOS
+P000402;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34229;57.2;Facebook;Android;other
+P000402;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34229;57.2;Facebook;Android;other
+P000402;110603500005;Nuggets Premium;1;6;6;Lun;34229;57.2;Facebook;Android;other
+P000402;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34229;57.2;Facebook;Android;other
+P000402;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34229;57.2;Facebook;Android;other
+P000403;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34236;115;Mobile Safari;iOS;iPhone
+P000403;110601000027;Pollo Entero S/M;3;16;48;Lun;34236;115;Mobile Safari;iOS;iPhone
+P000403;110601200016;Muslos Frescos;1;54;54;Lun;34236;115;Mobile Safari;iOS;iPhone
+P000404;110601000027;Pollo Entero S/M;7;16;112;Lun;34222;112;Chrome Mobile;Android;other
+P000405;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34247;83;Chrome;Windows;other
+P000405;110601000027;Pollo Entero S/M;1;16;16;Lun;34247;83;Chrome;Windows;other
+P000405;110603500048;Filete a la Pimienta;4;13.5;54;Lun;34247;83;Chrome;Windows;other
+P000406;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34253;62.5;Chrome Mobile;Android;other
+P000406;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34253;62.5;Chrome Mobile;Android;other
+P000406;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34253;62.5;Chrome Mobile;Android;other
+P000406;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34253;62.5;Chrome Mobile;Android;other
+P000407;110603500005;Nuggets Premium;1;6;6;Lun;34251;68.7;Facebook;Android;other
+P000407;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34251;68.7;Facebook;Android;other
+P000407;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34251;68.7;Facebook;Android;other
+P000407;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34251;68.7;Facebook;Android;other
+P000407;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34251;68.7;Facebook;Android;other
+P000408;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34245;53.7;Chrome;Windows;other
+P000408;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34245;53.7;Chrome;Windows;other
+P000408;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34245;53.7;Chrome;Windows;other
+P000409;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34210;102.8;Firefox;Windows;other
+P000409;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34210;102.8;Firefox;Windows;other
+P000409;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34210;102.8;Firefox;Windows;other
+P000409;110603700015;Hamburguesa Premium;6;8.3;49.8;Lun;34210;102.8;Firefox;Windows;other
+P000410;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34242;52.8;Facebook;Android;other
+P000410;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34242;52.8;Facebook;Android;other
+P000410;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34242;52.8;Facebook;Android;other
+P000410;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34242;52.8;Facebook;Android;other
+P000411;110601000027;Pollo Entero S/M;1;16;16;Lun;34254;55.1;Chrome;Mac OS X;other
+P000411;110603500005;Nuggets Premium;1;6;6;Lun;34254;55.1;Chrome;Mac OS X;other
+P000411;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34254;55.1;Chrome;Mac OS X;other
+P000411;110603700015;Hamburguesa Premium;3;8.3;24.9;Lun;34254;55.1;Chrome;Mac OS X;other
+P000412;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34235;53.8;Facebook;Android;Samsung
+P000412;110601000027;Pollo Entero S/M;1;16;16;Lun;34235;53.8;Facebook;Android;Samsung
+P000412;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34235;53.8;Facebook;Android;Samsung
+P000412;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34235;53.8;Facebook;Android;Samsung
+P000413;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34223;59.5;Mobile Safari;iOS;iPhone
+P000413;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34223;59.5;Mobile Safari;iOS;iPhone
+P000413;110601400016;Filete de Pechuga;1;30;30;Lun;34223;59.5;Mobile Safari;iOS;iPhone
+P000414;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34246;91;Chrome;Windows;other
+P000414;110601000027;Pollo Entero S/M;3;16;48;Lun;34246;91;Chrome;Windows;other
+P000414;110601400016;Filete de Pechuga;1;30;30;Lun;34246;91;Chrome;Windows;other
+P000415;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34213;70.7;Safari;Mac OS X;other
+P000415;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34213;70.7;Safari;Mac OS X;other
+P000415;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34213;70.7;Safari;Mac OS X;other
+P000415;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34213;70.7;Safari;Mac OS X;other
+P000416;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34243;53.3;Chrome;Windows;other
+P000416;110601000027;Pollo Entero S/M;1;16;16;Lun;34243;53.3;Chrome;Windows;other
+P000416;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34243;53.3;Chrome;Windows;other
+P000416;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34243;53.3;Chrome;Windows;other
+P000417;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34260;82.4;Mobile Safari;WKWebView;iOS
+P000417;110601000027;Pollo Entero S/M;2;16;32;Lun;34260;82.4;Mobile Safari;WKWebView;iOS
+P000417;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34260;82.4;Mobile Safari;WKWebView;iOS
+P000417;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34260;82.4;Mobile Safari;WKWebView;iOS
+P000417;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34260;82.4;Mobile Safari;WKWebView;iOS
+P000418;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34266;155;Chrome Mobile;Android;other
+P000418;110601000027;Pollo Entero S/M;2;16;32;Lun;34266;155;Chrome Mobile;Android;other
+P000418;110601200016;Muslos Frescos;1;54;54;Lun;34266;155;Chrome Mobile;Android;other
+P000418;110601400016;Filete de Pechuga;1;30;30;Lun;34266;155;Chrome Mobile;Android;other
+P000419;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34259;113.3;Mobile Safari;iOS;iPhone
+P000419;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34259;113.3;Mobile Safari;iOS;iPhone
+P000419;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34259;113.3;Mobile Safari;iOS;iPhone
+P000419;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34259;113.3;Mobile Safari;iOS;iPhone
+P000420;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34263;153;Mobile Safari;iOS;iPhone
+P000420;110601200016;Muslos Frescos;1;54;54;Lun;34263;153;Mobile Safari;iOS;iPhone
+P000420;110601400016;Filete de Pechuga;2;30;60;Lun;34263;153;Mobile Safari;iOS;iPhone
+P000421;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34258;70.5;Firefox;Windows;other
+P000421;110601200016;Muslos Frescos;1;54;54;Lun;34258;70.5;Firefox;Windows;other
+P000422;110601000027;Pollo Entero S/M;8;16;128;Lun;34216;128;Chrome;Windows;other
+P000423;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34275;97;Chrome;Windows;other
+P000423;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34275;97;Chrome;Windows;other
+P000423;110601400016;Filete de Pechuga;1;30;30;Lun;34275;97;Chrome;Windows;other
+P000424;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34279;86.9;Mobile Safari;WKWebView;iOS
+P000424;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34279;86.9;Mobile Safari;WKWebView;iOS
+P000424;110603500029;Chicharron de Pechuga de Pollo;4;12.5;50;Lun;34279;86.9;Mobile Safari;WKWebView;iOS
+P000424;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34279;86.9;Mobile Safari;WKWebView;iOS
+P000425;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34182;120.2;Chrome;Windows;other
+P000425;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34182;120.2;Chrome;Windows;other
+P000425;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34182;120.2;Chrome;Windows;other
+P000425;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34182;120.2;Chrome;Windows;other
+P000426;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34278;50.8;Chrome;Windows;other
+P000426;110601400016;Filete de Pechuga;1;30;30;Lun;34278;50.8;Chrome;Windows;other
+P000426;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34278;50.8;Chrome;Windows;other
+P000427;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34270;217.4;Mobile Safari;WKWebView;iOS
+P000427;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34270;217.4;Mobile Safari;WKWebView;iOS
+P000427;110601400016;Filete de Pechuga;3;30;90;Lun;34270;217.4;Mobile Safari;WKWebView;iOS
+P000427;110603500005;Nuggets Premium;3;6;18;Lun;34270;217.4;Mobile Safari;WKWebView;iOS
+P000427;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34270;217.4;Mobile Safari;WKWebView;iOS
+P000428;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34282;53.3;Facebook;Android;Samsung
+P000428;110603500005;Nuggets Premium;1;6;6;Lun;34282;53.3;Facebook;Android;Samsung
+P000428;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34282;53.3;Facebook;Android;Samsung
+P000428;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34282;53.3;Facebook;Android;Samsung
+P000428;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34282;53.3;Facebook;Android;Samsung
+P000429;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34257;76;Chrome;Windows;other
+P000429;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34257;76;Chrome;Windows;other
+P000429;110601400016;Filete de Pechuga;1;30;30;Lun;34257;76;Chrome;Windows;other
+P000430;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34280;73.6;Mobile Safari;iOS;iPhone
+P000430;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34280;73.6;Mobile Safari;iOS;iPhone
+P000430;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34280;73.6;Mobile Safari;iOS;iPhone
+P000431;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34215;50.8;Edge;Windows;other
+P000431;110601400016;Filete de Pechuga;1;30;30;Lun;34215;50.8;Edge;Windows;other
+P000431;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34215;50.8;Edge;Windows;other
+P000432;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34261;80.9;Mobile Safari;iOS;iPhone
+P000432;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34261;80.9;Mobile Safari;iOS;iPhone
+P000432;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34261;80.9;Mobile Safari;iOS;iPhone
+P000432;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34261;80.9;Mobile Safari;iOS;iPhone
+P000432;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34261;80.9;Mobile Safari;iOS;iPhone
+P000433;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34286;145.5;Chrome;Windows;other
+P000433;110601000027;Pollo Entero S/M;2;16;32;Lun;34286;145.5;Chrome;Windows;other
+P000433;110601400016;Filete de Pechuga;2;30;60;Lun;34286;145.5;Chrome;Windows;other
+P000433;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34286;145.5;Chrome;Windows;other
+P000434;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34285;115.1;Chrome;Windows;other
+P000434;110601400016;Filete de Pechuga;2;30;60;Lun;34285;115.1;Chrome;Windows;other
+P000434;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34285;115.1;Chrome;Windows;other
+P000434;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34285;115.1;Chrome;Windows;other
+P000435;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34269;64.5;Mobile Safari;WKWebView;iOS
+P000435;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34269;64.5;Mobile Safari;WKWebView;iOS
+P000435;110603500005;Nuggets Premium;1;6;6;Lun;34269;64.5;Mobile Safari;WKWebView;iOS
+P000435;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34269;64.5;Mobile Safari;WKWebView;iOS
+P000436;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34287;167.2;Chrome Mobile;Android;other
+P000436;110601200016;Muslos Frescos;1;54;54;Lun;34287;167.2;Chrome Mobile;Android;other
+P000436;110601400016;Filete de Pechuga;2;30;60;Lun;34287;167.2;Chrome Mobile;Android;other
+P000436;110603500013;Nuggets con Quinua;3;8.2;24.6;Lun;34287;167.2;Chrome Mobile;Android;other
+P000436;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34287;167.2;Chrome Mobile;Android;other
+P000437;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34283;53.6;Chrome Mobile;Android;other
+P000437;110603500005;Nuggets Premium;2;6;12;Lun;34283;53.6;Chrome Mobile;Android;other
+P000437;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34283;53.6;Chrome Mobile;Android;other
+P000437;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34283;53.6;Chrome Mobile;Android;other
+P000437;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34283;53.6;Chrome Mobile;Android;other
+P000438;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34268;50.8;Chrome;Android;other
+P000438;110601000027;Pollo Entero S/M;1;16;16;Lun;34268;50.8;Chrome;Android;other
+P000438;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34268;50.8;Chrome;Android;other
+P000438;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34268;50.8;Chrome;Android;other
+P000439;110601000027;Pollo Entero S/M;3;16;48;Lun;34281;54;Mobile Safari;iOS;iPhone
+P000439;110603500005;Nuggets Premium;1;6;6;Lun;34281;54;Mobile Safari;iOS;iPhone
+P000440;110601000027;Pollo Entero S/M;1;16;16;Lun;34274;70;Chrome;Windows;other
+P000440;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34274;70;Chrome;Windows;other
+P000441;110601000027;Pollo Entero S/M;1;16;16;Lun;34292;108.3;Chrome;Windows;other
+P000441;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34292;108.3;Chrome;Windows;other
+P000441;110601400016;Filete de Pechuga;1;30;30;Lun;34292;108.3;Chrome;Windows;other
+P000441;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34292;108.3;Chrome;Windows;other
+P000442;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34290;147;Mobile Safari;iOS;iPhone
+P000442;110601200009;Pierna Encuentro Fresca;2;54;108;Lun;34290;147;Mobile Safari;iOS;iPhone
+P000443;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34288;108.6;Chrome;Android;other
+P000443;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34288;108.6;Chrome;Android;other
+P000443;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34288;108.6;Chrome;Android;other
+P000444;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34286;61;Chrome;Windows;other
+P000444;110601000027;Pollo Entero S/M;3;16;48;Lun;34286;61;Chrome;Windows;other
+P000445;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34303;57.8;Chrome;Windows;other
+P000445;110603500005;Nuggets Premium;1;6;6;Lun;34303;57.8;Chrome;Windows;other
+P000445;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34303;57.8;Chrome;Windows;other
+P000445;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34303;57.8;Chrome;Windows;other
+P000446;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34255;133.6;Chrome;Windows;other
+P000446;110601000027;Pollo Entero S/M;2;16;32;Lun;34255;133.6;Chrome;Windows;other
+P000446;110601400016;Filete de Pechuga;2;30;60;Lun;34255;133.6;Chrome;Windows;other
+P000446;110603500005;Nuggets Premium;2;6;12;Lun;34255;133.6;Chrome;Windows;other
+P000446;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34255;133.6;Chrome;Windows;other
+P000447;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34311;81.8;Chrome;Windows;other
+P000447;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34311;81.8;Chrome;Windows;other
+P000447;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34311;81.8;Chrome;Windows;other
+P000447;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34311;81.8;Chrome;Windows;other
+P000447;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34311;81.8;Chrome;Windows;other
+P000448;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34316;126.1;Samsung Internet;Android;Samsung
+P000448;110601400016;Filete de Pechuga;2;30;60;Lun;34316;126.1;Samsung Internet;Android;Samsung
+P000448;110603500005;Nuggets Premium;2;6;12;Lun;34316;126.1;Samsung Internet;Android;Samsung
+P000448;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34316;126.1;Samsung Internet;Android;Samsung
+P000448;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34316;126.1;Samsung Internet;Android;Samsung
+P000449;110603500029;Chicharron de Pechuga de Pollo;6;12.5;75;Lun;34318;183;Chrome Mobile;Android;other
+P000449;110603500048;Filete a la Pimienta;6;13.5;81;Lun;34318;183;Chrome Mobile;Android;other
+P000449;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34318;183;Chrome Mobile;Android;other
+P000450;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34298;53.2;Chrome;Windows;other
+P000450;110601000027;Pollo Entero S/M;2;16;32;Lun;34298;53.2;Chrome;Windows;other
+P000450;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34298;53.2;Chrome;Windows;other
+P000451;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34320;58.5;Facebook;Android;Samsung
+P000451;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34320;58.5;Facebook;Android;Samsung
+P000451;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34320;58.5;Facebook;Android;Samsung
+P000451;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34320;58.5;Facebook;Android;Samsung
+P000451;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34320;58.5;Facebook;Android;Samsung
+P000452;110501000031;Huevo Pardo Empacado;4;13;52;Lun;34302;103.1;Chrome;Mac OS X;other
+P000452;110603500005;Nuggets Premium;1;6;6;Lun;34302;103.1;Chrome;Mac OS X;other
+P000452;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34302;103.1;Chrome;Mac OS X;other
+P000452;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34302;103.1;Chrome;Mac OS X;other
+P000452;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34302;103.1;Chrome;Mac OS X;other
+P000452;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34302;103.1;Chrome;Mac OS X;other
+P000453;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34286;61;Chrome;Windows;other
+P000453;110601000027;Pollo Entero S/M;3;16;48;Lun;34286;61;Chrome;Windows;other
+P000454;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34256;120.7;Chrome;Windows;other
+P000454;110601000027;Pollo Entero S/M;2;16;32;Lun;34256;120.7;Chrome;Windows;other
+P000454;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34256;120.7;Chrome;Windows;other
+P000454;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34256;120.7;Chrome;Windows;other
+P000454;110603700039;Enrollado con Frutas Secas;2;27.5;55;Lun;34256;120.7;Chrome;Windows;other
+P000455;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34312;54.3;Chrome Mobile;Android;other
+P000455;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34312;54.3;Chrome Mobile;Android;other
+P000455;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34312;54.3;Chrome Mobile;Android;other
+P000456;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34329;55.5;Facebook;iOS;iPhone
+P000456;110603500005;Nuggets Premium;2;6;12;Lun;34329;55.5;Facebook;iOS;iPhone
+P000456;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34329;55.5;Facebook;iOS;iPhone
+P000457;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34327;104.6;Mobile Safari;WKWebView;iOS
+P000457;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34327;104.6;Mobile Safari;WKWebView;iOS
+P000457;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34327;104.6;Mobile Safari;WKWebView;iOS
+P000457;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34327;104.6;Mobile Safari;WKWebView;iOS
+P000458;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34325;118.7;Chrome Mobile;Android;other
+P000458;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34325;118.7;Chrome Mobile;Android;other
+P000458;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34325;118.7;Chrome Mobile;Android;other
+P000458;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34325;118.7;Chrome Mobile;Android;other
+P000458;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34325;118.7;Chrome Mobile;Android;other
+P000459;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34326;144.8;Facebook;iOS;iPhone
+P000459;110601000027;Pollo Entero S/M;1;16;16;Lun;34326;144.8;Facebook;iOS;iPhone
+P000459;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34326;144.8;Facebook;iOS;iPhone
+P000459;110601200016;Muslos Frescos;1;54;54;Lun;34326;144.8;Facebook;iOS;iPhone
+P000459;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34326;144.8;Facebook;iOS;iPhone
+P000460;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34328;68.7;Safari;Mac OS X;other
+P000460;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34328;68.7;Safari;Mac OS X;other
+P000460;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34328;68.7;Safari;Mac OS X;other
+P000461;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34335;89;Mobile Safari;iOS;iPhone
+P000461;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34335;89;Mobile Safari;iOS;iPhone
+P000461;110601400016;Filete de Pechuga;1;30;30;Lun;34335;89;Mobile Safari;iOS;iPhone
+P000462;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34310;70.5;Chrome;Windows;other
+P000462;110601400016;Filete de Pechuga;1;30;30;Lun;34310;70.5;Chrome;Windows;other
+P000462;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34310;70.5;Chrome;Windows;other
+P000463;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34334;123;Mobile Safari;iOS;iPhone
+P000463;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34334;123;Mobile Safari;iOS;iPhone
+P000463;110601400016;Filete de Pechuga;1;30;30;Lun;34334;123;Mobile Safari;iOS;iPhone
+P000464;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34336;50.3;Chrome;Windows;other
+P000464;110601000027;Pollo Entero S/M;1;16;16;Lun;34336;50.3;Chrome;Windows;other
+P000464;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34336;50.3;Chrome;Windows;other
+P000465;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34330;105.3;Chrome Mobile;Android;other
+P000465;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34330;105.3;Chrome Mobile;Android;other
+P000465;110601400016;Filete de Pechuga;1;30;30;Lun;34330;105.3;Chrome Mobile;Android;other
+P000465;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34330;105.3;Chrome Mobile;Android;other
+P000466;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34291;58.5;Chrome;Windows;other
+P000466;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34291;58.5;Chrome;Windows;other
+P000466;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34291;58.5;Chrome;Windows;other
+P000467;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34339;58;Mobile Safari;WKWebView;iOS
+P000467;110601000027;Pollo Entero S/M;2;16;32;Lun;34339;58;Mobile Safari;WKWebView;iOS
+P000468;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34337;126.9;Chrome Mobile;Android;other
+P000468;110603500005;Nuggets Premium;2;6;12;Lun;34337;126.9;Chrome Mobile;Android;other
+P000468;110603500019;Deditos de Pollo;4;7.8;31.2;Lun;34337;126.9;Chrome Mobile;Android;other
+P000468;110603500029;Chicharron de Pechuga de Pollo;3;12.5;37.5;Lun;34337;126.9;Chrome Mobile;Android;other
+P000468;110603700015;Hamburguesa Premium;4;8.3;33.2;Lun;34337;126.9;Chrome Mobile;Android;other
+P000469;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34183;75.1;Mobile Safari;iOS;iPhone
+P000469;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34183;75.1;Mobile Safari;iOS;iPhone
+P000469;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34183;75.1;Mobile Safari;iOS;iPhone
+P000469;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34183;75.1;Mobile Safari;iOS;iPhone
+P000470;110601000027;Pollo Entero S/M;1;16;16;Lun;34343;68;Facebook;Android;Moto
+P000470;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34343;68;Facebook;Android;Moto
+P000470;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34343;68;Facebook;Android;Moto
+P000471;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34314;98;Edge;Windows;other
+P000471;110601400016;Filete de Pechuga;2;30;60;Lun;34314;98;Edge;Windows;other
+P000471;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34314;98;Edge;Windows;other
+P000472;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34351;103.1;Chrome Mobile;Android;other
+P000472;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34351;103.1;Chrome Mobile;Android;other
+P000472;110601400016;Filete de Pechuga;1;30;30;Lun;34351;103.1;Chrome Mobile;Android;other
+P000472;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34351;103.1;Chrome Mobile;Android;other
+P000472;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34351;103.1;Chrome Mobile;Android;other
+P000473;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34309;58;Chrome;Windows;other
+P000473;110601000027;Pollo Entero S/M;2;16;32;Lun;34309;58;Chrome;Windows;other
+P000474;110601400016;Filete de Pechuga;2;30;60;Lun;34348;72;Chrome Mobile;Android;other
+P000474;110603500005;Nuggets Premium;2;6;12;Lun;34348;72;Chrome Mobile;Android;other
+P000475;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34350;59;Mobile Safari;iOS;iPhone
+P000475;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34350;59;Mobile Safari;iOS;iPhone
+P000476;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34346;51;Mobile Safari;WKWebView;iOS
+P000476;110603500005;Nuggets Premium;2;6;12;Lun;34346;51;Mobile Safari;WKWebView;iOS
+P000476;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34346;51;Mobile Safari;WKWebView;iOS
+P000476;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34346;51;Mobile Safari;WKWebView;iOS
+P000477;110601400016;Filete de Pechuga;1;30;30;Lun;34353;68.5;Mobile Safari;iOS;iPhone
+P000477;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34353;68.5;Mobile Safari;iOS;iPhone
+P000477;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34353;68.5;Mobile Safari;iOS;iPhone
+P000478;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34354;81.3;Chrome Mobile;Android;other
+P000478;110601000027;Pollo Entero S/M;3;16;48;Lun;34354;81.3;Chrome Mobile;Android;other
+P000478;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34354;81.3;Chrome Mobile;Android;other
+P000478;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34354;81.3;Chrome Mobile;Android;other
+P000479;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34356;66.2;Chrome Mobile;Android;other
+P000479;110601000027;Pollo Entero S/M;2;16;32;Lun;34356;66.2;Chrome Mobile;Android;other
+P000479;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34356;66.2;Chrome Mobile;Android;other
+P000480;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34359;86;Mobile Safari;WKWebView;iOS
+P000480;110601400016;Filete de Pechuga;2;30;60;Lun;34359;86;Mobile Safari;WKWebView;iOS
+P000481;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34358;81.3;Facebook;Android;Samsung
+P000481;110601400016;Filete de Pechuga;2;30;60;Lun;34358;81.3;Facebook;Android;Samsung
+P000481;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34358;81.3;Facebook;Android;Samsung
+P000482;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34363;54.3;Mobile Safari;WKWebView;iOS
+P000482;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34363;54.3;Mobile Safari;WKWebView;iOS
+P000482;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34363;54.3;Mobile Safari;WKWebView;iOS
+P000483;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34361;51.3;Mobile Safari;iOS;iPhone
+P000483;110601400016;Filete de Pechuga;1;30;30;Lun;34361;51.3;Mobile Safari;iOS;iPhone
+P000483;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34361;51.3;Mobile Safari;iOS;iPhone
+P000484;110601000027;Pollo Entero S/M;2;16;32;Lun;34370;112;Mobile Safari;iOS;iPhone
+P000484;110601400016;Filete de Pechuga;1;30;30;Lun;34370;112;Mobile Safari;iOS;iPhone
+P000484;110603500029;Chicharron de Pechuga de Pollo;4;12.5;50;Lun;34370;112;Mobile Safari;iOS;iPhone
+P000485;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34373;63;Chrome;Windows;other
+P000485;110601400016;Filete de Pechuga;1;30;30;Lun;34373;63;Chrome;Windows;other
+P000486;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34367;139;Chrome Mobile;Android;other
+P000486;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34367;139;Chrome Mobile;Android;other
+P000486;110601400016;Filete de Pechuga;2;30;60;Lun;34367;139;Chrome Mobile;Android;other
+P000487;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34369;89;Mobile Safari;iOS;iPhone
+P000487;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34369;89;Mobile Safari;iOS;iPhone
+P000487;110601400016;Filete de Pechuga;1;30;30;Lun;34369;89;Mobile Safari;iOS;iPhone
+P000488;110603500029;Chicharron de Pechuga de Pollo;7;12.5;87.5;Lun;34272;87.5;Safari;Mac OS X;other
+P000489;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34203;103;Chrome;Windows;other
+P000489;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34203;103;Chrome;Windows;other
+P000489;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34203;103;Chrome;Windows;other
+P000489;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34203;103;Chrome;Windows;other
+P000489;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34203;103;Chrome;Windows;other
+P000490;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34252;129.5;Safari;Mac OS X;other
+P000490;110601000027;Pollo Entero S/M;1;16;16;Lun;34252;129.5;Safari;Mac OS X;other
+P000490;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34252;129.5;Safari;Mac OS X;other
+P000490;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34252;129.5;Safari;Mac OS X;other
+P000490;110601400016;Filete de Pechuga;1;30;30;Lun;34252;129.5;Safari;Mac OS X;other
+P000491;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34374;95.5;Chrome;Windows;other
+P000491;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34374;95.5;Chrome;Windows;other
+P000491;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34374;95.5;Chrome;Windows;other
+P000491;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34374;95.5;Chrome;Windows;other
+P000491;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34374;95.5;Chrome;Windows;other
+P000492;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34368;55.5;Mobile Safari;iOS;iPhone
+P000492;110601400016;Filete de Pechuga;1;30;30;Lun;34368;55.5;Mobile Safari;iOS;iPhone
+P000492;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34368;55.5;Mobile Safari;iOS;iPhone
+P000493;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34379;55;Mobile Safari;iOS;iPhone
+P000493;110601400016;Filete de Pechuga;1;30;30;Lun;34379;55;Mobile Safari;iOS;iPhone
+P000493;110603500005;Nuggets Premium;2;6;12;Lun;34379;55;Mobile Safari;iOS;iPhone
+P000494;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000494;110601200009;Pierna Encuentro Fresca;2;54;108;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000494;110601400016;Filete de Pechuga;3;30;90;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000494;110603500013;Nuggets con Quinua;3;8.2;24.6;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000494;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000494;110603500029;Chicharron de Pechuga de Pollo;3;12.5;37.5;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000494;110603700015;Hamburguesa Premium;3;8.3;24.9;Lun;34381;326.6;Mobile Safari;iOS;iPhone
+P000495;110601000027;Pollo Entero S/M;1;16;16;Lun;34380;82.8;Mobile Safari;WKWebView;iOS
+P000495;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34380;82.8;Mobile Safari;WKWebView;iOS
+P000495;110601400016;Filete de Pechuga;1;30;30;Lun;34380;82.8;Mobile Safari;WKWebView;iOS
+P000495;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34380;82.8;Mobile Safari;WKWebView;iOS
+P000495;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34380;82.8;Mobile Safari;WKWebView;iOS
+P000496;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34377;87.5;Chrome;Windows;other
+P000496;110601400016;Filete de Pechuga;1;30;30;Lun;34377;87.5;Chrome;Windows;other
+P000496;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34377;87.5;Chrome;Windows;other
+P000496;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34377;87.5;Chrome;Windows;other
+P000497;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34362;171;Chrome;Windows;other
+P000497;110601200006;Pollo trozado x 8 pzas S/M;8;16.5;132;Lun;34362;171;Chrome;Windows;other
+P000498;110601400016;Filete de Pechuga;1;30;30;Lun;34365;104.8;Facebook;Android;other
+P000498;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34365;104.8;Facebook;Android;other
+P000498;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34365;104.8;Facebook;Android;other
+P000498;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34365;104.8;Facebook;Android;other
+P000498;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34365;104.8;Facebook;Android;other
+P000499;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34384;159.2;Mobile Safari;iOS;iPhone
+P000499;110601400015;Filete de Pechuga Corazon;2;32;64;Lun;34384;159.2;Mobile Safari;iOS;iPhone
+P000499;110601400016;Filete de Pechuga;1;30;30;Lun;34384;159.2;Mobile Safari;iOS;iPhone
+P000499;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34384;159.2;Mobile Safari;iOS;iPhone
+P000499;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34384;159.2;Mobile Safari;iOS;iPhone
+P000499;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34384;159.2;Mobile Safari;iOS;iPhone
+P000500;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34387;172.5;Mobile Safari;iOS;iPhone
+P000500;110601000027;Pollo Entero S/M;2;16;32;Lun;34387;172.5;Mobile Safari;iOS;iPhone
+P000500;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34387;172.5;Mobile Safari;iOS;iPhone
+P000500;110601200016;Muslos Frescos;1;54;54;Lun;34387;172.5;Mobile Safari;iOS;iPhone
+P000500;110601400016;Filete de Pechuga;1;30;30;Lun;34387;172.5;Mobile Safari;iOS;iPhone
+P000500;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34387;172.5;Mobile Safari;iOS;iPhone
+P000501;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34388;86.2;Chrome;Windows;other
+P000501;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34388;86.2;Chrome;Windows;other
+P000501;110603500005;Nuggets Premium;1;6;6;Lun;34388;86.2;Chrome;Windows;other
+P000501;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34388;86.2;Chrome;Windows;other
+P000501;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34388;86.2;Chrome;Windows;other
+P000501;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34388;86.2;Chrome;Windows;other
+P000502;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34390;68;Facebook;Android;LG
+P000502;110601400016;Filete de Pechuga;1;30;30;Lun;34390;68;Facebook;Android;LG
+P000502;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34390;68;Facebook;Android;LG
+P000503;110603500005;Nuggets Premium;1;6;6;Lun;34382;51.6;Facebook;Android;Samsung
+P000503;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34382;51.6;Facebook;Android;Samsung
+P000503;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34382;51.6;Facebook;Android;Samsung
+P000503;110603700015;Hamburguesa Premium;3;8.3;24.9;Lun;34382;51.6;Facebook;Android;Samsung
+P000504;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34385;107.9;Chrome;Windows;other
+P000504;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34385;107.9;Chrome;Windows;other
+P000504;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34385;107.9;Chrome;Windows;other
+P000504;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34385;107.9;Chrome;Windows;other
+P000505;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34391;75.6;Facebook;Android;other
+P000505;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34391;75.6;Facebook;Android;other
+P000505;110601400016;Filete de Pechuga;1;30;30;Lun;34391;75.6;Facebook;Android;other
+P000505;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34391;75.6;Facebook;Android;other
+P000505;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34391;75.6;Facebook;Android;other
+P000506;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34393;82;Mobile Safari;iOS;iPhone
+P000506;110601000027;Pollo Entero S/M;2;16;32;Lun;34393;82;Mobile Safari;iOS;iPhone
+P000506;110603500005;Nuggets Premium;2;6;12;Lun;34393;82;Mobile Safari;iOS;iPhone
+P000506;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34393;82;Mobile Safari;iOS;iPhone
+P000507;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34397;156.5;Chrome;Windows;other
+P000507;110601000027;Pollo Entero S/M;2;16;32;Lun;34397;156.5;Chrome;Windows;other
+P000507;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34397;156.5;Chrome;Windows;other
+P000507;110601400016;Filete de Pechuga;1;30;30;Lun;34397;156.5;Chrome;Windows;other
+P000507;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34397;156.5;Chrome;Windows;other
+P000508;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34403;91;Mobile Safari;iOS;iPhone
+P000508;110601400016;Filete de Pechuga;2;30;60;Lun;34403;91;Mobile Safari;iOS;iPhone
+P000508;110603500005;Nuggets Premium;3;6;18;Lun;34403;91;Mobile Safari;iOS;iPhone
+P000509;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34383;93.5;Safari;Mac OS X;other
+P000509;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34383;93.5;Safari;Mac OS X;other
+P000509;110603500005;Nuggets Premium;3;6;18;Lun;34383;93.5;Safari;Mac OS X;other
+P000510;110501000031;Huevo Pardo Empacado;2;13;26;Lun;33985;74;Mobile Safari;iOS;iPhone
+P000510;110601000027;Pollo Entero S/M;3;16;48;Lun;33985;74;Mobile Safari;iOS;iPhone
+P000511;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34402;59.5;Chrome Mobile;Android;other
+P000511;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34402;59.5;Chrome Mobile;Android;other
+P000511;110601400016;Filete de Pechuga;1;30;30;Lun;34402;59.5;Chrome Mobile;Android;other
+P000512;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34394;133.5;Chrome;Windows;other
+P000512;110601000027;Pollo Entero S/M;1;16;16;Lun;34394;133.5;Chrome;Windows;other
+P000512;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34394;133.5;Chrome;Windows;other
+P000512;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34394;133.5;Chrome;Windows;other
+P000512;110603500019;Deditos de Pollo;2;7.8;15.6;Lun;34394;133.5;Chrome;Windows;other
+P000512;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34394;133.5;Chrome;Windows;other
+P000512;110603500048;Filete a la Pimienta;2;13.5;27;Lun;34394;133.5;Chrome;Windows;other
+P000513;110601000027;Pollo Entero S/M;2;16;32;Lun;34410;126.5;Safari;Mac OS X;other
+P000513;110601400016;Filete de Pechuga;2;30;60;Lun;34410;126.5;Safari;Mac OS X;other
+P000513;110603500005;Nuggets Premium;1;6;6;Lun;34410;126.5;Safari;Mac OS X;other
+P000513;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34410;126.5;Safari;Mac OS X;other
+P000513;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34410;126.5;Safari;Mac OS X;other
+P000513;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34410;126.5;Safari;Mac OS X;other
+P000514;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34406;106;Chrome Mobile;Android;other
+P000514;110601000027;Pollo Entero S/M;5;16;80;Lun;34406;106;Chrome Mobile;Android;other
+P000515;110501000031;Huevo Pardo Empacado;4;13;52;Lun;34413;130.1;Chrome Mobile;Android;other
+P000515;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34413;130.1;Chrome Mobile;Android;other
+P000515;110603500005;Nuggets Premium;2;6;12;Lun;34413;130.1;Chrome Mobile;Android;other
+P000515;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34413;130.1;Chrome Mobile;Android;other
+P000516;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34404;70.2;Chrome Mobile;Android;other
+P000516;110601000027;Pollo Entero S/M;1;16;16;Lun;34404;70.2;Chrome Mobile;Android;other
+P000516;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34404;70.2;Chrome Mobile;Android;other
+P000516;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34404;70.2;Chrome Mobile;Android;other
+P000517;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34405;97;Chrome Mobile;Android;other
+P000517;110601200009;Pierna Encuentro Fresca;1;54;54;Lun;34405;97;Chrome Mobile;Android;other
+P000517;110601400016;Filete de Pechuga;1;30;30;Lun;34405;97;Chrome Mobile;Android;other
+P000518;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34372;97.3;Mobile Safari;WKWebView;iOS
+P000518;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34372;97.3;Mobile Safari;WKWebView;iOS
+P000518;110601400016;Filete de Pechuga;1;30;30;Lun;34372;97.3;Mobile Safari;WKWebView;iOS
+P000518;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34372;97.3;Mobile Safari;WKWebView;iOS
+P000519;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34213;59.6;Safari;Mac OS X;other
+P000519;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34213;59.6;Safari;Mac OS X;other
+P000519;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34213;59.6;Safari;Mac OS X;other
+P000519;110603700015;Hamburguesa Premium;2;8.3;16.6;Lun;34213;59.6;Safari;Mac OS X;other
+P000520;110501000031;Huevo Pardo Empacado;3;13;39;Lun;34412;87;Chrome;Windows;other
+P000520;110601000027;Pollo Entero S/M;3;16;48;Lun;34412;87;Chrome;Windows;other
+P000521;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34416;103.5;Chrome;Windows;other
+P000521;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34416;103.5;Chrome;Windows;other
+P000521;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34416;103.5;Chrome;Windows;other
+P000521;110603500049;Filete  a la Criolla;2;13.5;27;Lun;34416;103.5;Chrome;Windows;other
+P000521;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34416;103.5;Chrome;Windows;other
+P000522;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34419;86.5;Samsung Internet;Android;Samsung
+P000522;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34419;86.5;Samsung Internet;Android;Samsung
+P000522;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34419;86.5;Samsung Internet;Android;Samsung
+P000523;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34426;67.7;Chrome;Windows;other
+P000523;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34426;67.7;Chrome;Windows;other
+P000523;110601400016;Filete de Pechuga;1;30;30;Lun;34426;67.7;Chrome;Windows;other
+P000523;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34426;67.7;Chrome;Windows;other
+P000524;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34396;94.5;Mobile Safari;iOS;iPad
+P000524;110601400015;Filete de Pechuga Corazon;1;32;32;Lun;34396;94.5;Mobile Safari;iOS;iPad
+P000524;110603500005;Nuggets Premium;2;6;12;Lun;34396;94.5;Mobile Safari;iOS;iPad
+P000524;110603500029;Chicharron de Pechuga de Pollo;3;12.5;37.5;Lun;34396;94.5;Mobile Safari;iOS;iPad
+P000525;110601000027;Pollo Entero S/M;2;16;32;Lun;34407;62;Chrome Mobile;Android;LG
+P000525;110601400016;Filete de Pechuga;1;30;30;Lun;34407;62;Chrome Mobile;Android;LG
+P000526;110501000031;Huevo Pardo Empacado;2;13;26;Lun;34421;216.9;Chrome;Windows;other
+P000526;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34421;216.9;Chrome;Windows;other
+P000526;110601200016;Muslos Frescos;1;54;54;Lun;34421;216.9;Chrome;Windows;other
+P000526;110601400016;Filete de Pechuga;2;30;60;Lun;34421;216.9;Chrome;Windows;other
+P000526;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34421;216.9;Chrome;Windows;other
+P000526;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34421;216.9;Chrome;Windows;other
+P000527;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34431;96.8;Samsung Internet;Android;Samsung
+P000527;110601200006;Pollo trozado x 8 pzas S/M;2;16.5;33;Lun;34431;96.8;Samsung Internet;Android;Samsung
+P000527;110601400016;Filete de Pechuga;1;30;30;Lun;34431;96.8;Samsung Internet;Android;Samsung
+P000527;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34431;96.8;Samsung Internet;Android;Samsung
+P000527;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34431;96.8;Samsung Internet;Android;Samsung
+P000528;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34423;100.5;Chrome Mobile;Android;other
+P000528;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34423;100.5;Chrome Mobile;Android;other
+P000528;110603500005;Nuggets Premium;2;6;12;Lun;34423;100.5;Chrome Mobile;Android;other
+P000528;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34423;100.5;Chrome Mobile;Android;other
+P000528;110603500049;Filete  a la Criolla;1;13.5;13.5;Lun;34423;100.5;Chrome Mobile;Android;other
+P000529;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34264;51.6;Facebook;Android;other
+P000529;110601200006;Pollo trozado x 8 pzas S/M;1;16.5;16.5;Lun;34264;51.6;Facebook;Android;other
+P000529;110603500005;Nuggets Premium;1;6;6;Lun;34264;51.6;Facebook;Android;other
+P000529;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34264;51.6;Facebook;Android;other
+P000529;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34264;51.6;Facebook;Android;other
+P000530;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34429;122.4;Chrome;Windows;other
+P000530;110601200006;Pollo trozado x 8 pzas S/M;3;16.5;49.5;Lun;34429;122.4;Chrome;Windows;other
+P000530;110601400016;Filete de Pechuga;1;30;30;Lun;34429;122.4;Chrome;Windows;other
+P000530;110603500013;Nuggets con Quinua;2;8.2;16.4;Lun;34429;122.4;Chrome;Windows;other
+P000530;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34429;122.4;Chrome;Windows;other
+P000531;110601400016;Filete de Pechuga;2;30;60;Lun;34439;92.3;Mobile Safari;iOS;iPhone
+P000531;110603500005;Nuggets Premium;2;6;12;Lun;34439;92.3;Mobile Safari;iOS;iPhone
+P000531;110603500019;Deditos de Pollo;1;7.8;7.8;Lun;34439;92.3;Mobile Safari;iOS;iPhone
+P000531;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34439;92.3;Mobile Safari;iOS;iPhone
+P000532;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000532;110601200006;Pollo trozado x 8 pzas S/M;4;16.5;66;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000532;110601400016;Filete de Pechuga;1;30;30;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000532;110603500029;Chicharron de Pechuga de Pollo;2;12.5;25;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000532;110603500048;Filete a la Pimienta;1;13.5;13.5;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000532;110603700015;Hamburguesa Premium;1;8.3;8.3;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000532;110603700039;Enrollado con Frutas Secas;1;27.5;27.5;Lun;34447;183.3;Mobile Safari;iOS;iPhone
+P000533;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34441;127;Chrome;Windows;other
+P000533;110601200016;Muslos Frescos;1;54;54;Lun;34441;127;Chrome;Windows;other
+P000533;110601400016;Filete de Pechuga;2;30;60;Lun;34441;127;Chrome;Windows;other
+P000534;110501000031;Huevo Pardo Empacado;1;13;13;Lun;34448;97.7;Chrome;Windows;other
+P000534;110601000027;Pollo Entero S/M;4;16;64;Lun;34448;97.7;Chrome;Windows;other
+P000534;110603500013;Nuggets con Quinua;1;8.2;8.2;Lun;34448;97.7;Chrome;Windows;other
+P000534;110603500029;Chicharron de Pechuga de Pollo;1;12.5;12.5;Lun;34448;97.7;Chrome;Windows;other
